@@ -1,0 +1,902 @@
+sample	Clade	Refined_isolation_source	Continent	Aneuplody
+2FD	15	Environmental	North America	
+4FD	15	Environmental	North America	
+5FD	9	Environmental	North America	
+6FD	9	Environmental	North America	
+7FD	7	Environmental	North America	
+8FD	S	Environmental	North America	
+9FD	7	Environmental	North America	
+ERR10430872	1	NA	Asia	
+ERR10430873	1	NA	Asia	
+ERR10430875	1	NA	Asia	
+ERR263534	7	Gastrointestinal	Europe	
+ERR263538	4	Gastrointestinal	Europe	
+ERR2708444	18	Environmental	Europe	
+ERR2708450	20	Environmental	Europe	
+ERR2708456	4	Environmental	Europe	
+ERR4669749	1	NA	Europe	
+ERR4669750	15	NA	Europe	
+ERR4669751	2	Vagina	Europe	
+ERR4669752	4	Vagina	Europe	
+ERR4669753	4	Vagina	Europe	
+ERR4669754	3	Vagina	Europe	
+ERR4669755	4	Skin	Europe	
+ERR4669758	4	Vagina	Europe	
+ERR4669760	1	Vagina	Europe	
+ERR4669762	4	NA	Europe	
+ERR4669764	1	Urogenital	Europe	
+ERR4669765	4	Urogenital	Europe	chr7
+ERR4669766	20	Vagina	Europe	
+ERR4669767	15	Oral	Europe	
+ERR4669768	2	Vagina	Europe	
+ERR4669769	17	Oral	Europe	
+ERR4669770	2	Oral	Europe	
+ERR4669771	2	Oral	Europe	
+ERR4669773	15	Oral	Europe	
+ERR4669774	5	Vagina	Europe	
+ERR4669775	1	Oral	Europe	
+ERR4669776	1	Vagina	Europe	
+ERR4669777	2	Skin	Europe	chrR
+ERR4669781	2	Oral	Europe	
+ERR4669793	5	Circulatory	Europe	
+ERR4669797	12	Skin	Europe	
+ERR4669798	4	Skin	Europe	
+HSC002	2	Circulatory	North America	
+HSC007	20	Miscellaneous	North America	
+HSC008	4	Skin	North America	
+HSC012	4	Abdominal	North America	
+HSC014	3	Skin	North America	
+HSC015	3	Abdominal	North America	chr3
+HSC028	15	Abdominal	North America	
+HSC029	15	Pleural and Thoracic	North America	
+HSC030	1	Pleural and Thoracic	North America	
+HSC034	1	Skin	North America	
+HSC041	3	Urogenital	North America	
+HSC042	1	Urogenital	North America	
+HSC043	1	Skin	North America	
+HSC044	1	Vagina	North America	
+HSC046	1	Skin	North America	chr7
+HSC047	1	Gastrointestinal	North America	
+HSC048	1	Skin	North America	
+HSC051	1	Urogenital	North America	
+HSC054	15	Oral	North America	
+HSC055	3	Skin	North America	
+HSC057	15	Oral	North America	
+HSC058	2	Abdominal	North America	
+HSC061	3	Gastrointestinal	North America	
+HSC062	11	Skin	North America	
+HSC063	1	Circulatory	North America	
+HSC074	15	Pleural and Thoracic	North America	
+HSC077	15	Circulatory	North America	
+HSC078	1	Vagina	North America	
+HSC080	3	Miscellaneous	North America	
+HSC081	1	Urogenital	North America	
+HSC083	15	Urogenital	North America	chr4,chr7
+HSC090	1	Skin	North America	
+HSC094	3	Abdominal	North America	
+HSC097	19	Skin	North America	
+HSC098	3	Urogenital	North America	
+HSC100	4	Circulatory	North America	
+HSC111	15	Miscellaneous	North America	
+HSC112	1	Oral	North America	
+HSC116	15	Urogenital	North America	
+HSC120	4	Circulatory	North America	
+HSC123	1	Miscellaneous	North America	
+HSC124	11	Vagina	North America	CNV on chr2
+HSC125	1	Miscellaneous	North America	
+HSC126	1	Abdominal	North America	
+HSC127	1	Vagina	North America	
+HSC128	3	Abdominal	North America	
+HSC129	1	Circulatory	North America	
+HSC134	1	Miscellaneous	North America	
+HSC138	19	Skin	North America	
+HSC147	4	Vagina	North America	
+HSC149	15	Pleural and Thoracic	North America	
+HSC156	15	Urogenital	North America	
+HSC157	3	Vagina	North America	
+HSC158	9	Pleural and Thoracic	North America	chrR
+HSC160	2	Circulatory	North America	chr7
+HSC167	1	Vagina	North America	CNV on chr4
+HSC169	1	Pleural and Thoracic	North America	
+HSC173	1	Abdominal	North America	
+HSC174	19	Pleural and Thoracic	North America	
+HSC180	3	Gastrointestinal	North America	
+HSC185	15	Urogenital	North America	
+HSC187	15	Skin	North America	
+HSC190	9	Circulatory	North America	
+HSC193	15	Skin	North America	
+HSC194	15	Oral	North America	
+HSC197	15	Abdominal	North America	
+HSC199	1	Urogenital	North America	
+HSC201	15	Oral	North America	
+HSC204	1	Oral	North America	
+HSC206	1	Circulatory	North America	
+HSC207	15	Abdominal	North America	
+HSC210	1	Gastrointestinal	North America	chr7
+SRR10209617	11	Oral	Europe	
+SRR10209618	11	Skin	Europe	
+SRR10209619	1	Skin	Europe	
+SRR10209620	11	Skin	Europe	
+SRR10209621	11	Vagina	Europe	
+SRR10209622	11	Oral	Europe	
+SRR10209623	11	Oral	Europe	
+SRR10209624	11	Oral	Europe	
+SRR11235410	3	Circulatory	North America	
+SRR11235411	4	Abdominal	North America	
+SRR11235420	3	Circulatory	North America	
+SRR11235432	9	Circulatory	North America	
+SRR12969465	1	Urogenital	NA	
+SRR12969470	1	Gastrointestinal	North America	
+SRR12969473	1	Skin	South America	
+SRR12969478	1	Oral	NA	CNV on chrRR
+SRR13587520	6	Circulatory	Asia	
+SRR13587521	1	Circulatory	Asia	
+SRR13587524	14	Circulatory	Asia	
+SRR13587525	9	Circulatory	Asia	
+SRR13587526	15	Circulatory	Asia	
+SRR13587527	19	Circulatory	Asia	
+SRR13587528	18	Circulatory	Asia	
+SRR13587529	15	Circulatory	Asia	
+SRR13587530	20	Circulatory	Asia	
+SRR13587531	20	Pleural and Thoracic	Asia	
+SRR13587532	17	Circulatory	Asia	
+SRR13587533	8	Circulatory	Asia	
+SRR13587534	15	Circulatory	Asia	
+SRR13587535	15	Circulatory	Asia	chr7
+SRR13587536	7	Circulatory	Asia	
+SRR13587537	17	Circulatory	Asia	
+SRR13587538	15	Circulatory	Asia	
+SRR13587539	17	Circulatory	Asia	
+SRR13587540	1	Circulatory	Asia	
+SRR13587541	21	Circulatory	Asia	
+SRR13587542	1	Circulatory	Asia	CNV on chr5
+SRR13587543	15	Circulatory	Asia	
+SRR13587544	15	Circulatory	Asia	
+SRR13587546	8	Circulatory	Asia	
+SRR13587547	18	Circulatory	Asia	
+SRR13587548	9	Circulatory	Asia	
+SRR13587549	20	Circulatory	Asia	
+SRR13587550	7	Circulatory	Asia	
+SRR13587551	1	Pleural and Thoracic	Asia	
+SRR13587552	9	Circulatory	Asia	
+SRR13587553	8	Circulatory	Asia	
+SRR13587555	1	Circulatory	Asia	
+SRR13587556	5	Circulatory	Asia	
+SRR13587557	8	Circulatory	Asia	
+SRR13587558	15	Circulatory	Asia	
+SRR13587559	19	Circulatory	Asia	
+SRR13587560	12	Circulatory	Asia	
+SRR13587561	8	Circulatory	Asia	
+SRR13587562	8	Circulatory	Asia	
+SRR13587563	15	Circulatory	Asia	
+SRR13587564	1	Circulatory	Asia	
+SRR13587565	12	Circulatory	Asia	
+SRR13587566	17	Circulatory	Asia	
+SRR13587567	18	Circulatory	Asia	
+SRR13587568	17	Circulatory	Asia	
+SRR13587569	17	Circulatory	Asia	chrR
+SRR13587570	18	Miscellaneous	Asia	
+SRR13587572	6	Miscellaneous	Asia	
+SRR13587573	20	Pleural and Thoracic	Asia	
+SRR13587574	3	Skin	Asia	
+SRR13587576	3	Miscellaneous	Asia	
+SRR13587577	8	Circulatory	Asia	chr7L,chrRR
+SRR13587578	4	Circulatory	Asia	
+SRR13587579	18	Circulatory	Asia	chr6,chr7
+SRR13587580	15	Pleural and Thoracic	Asia	
+SRR13587581	18	Circulatory	Asia	
+SRR13587582	4	Skin	Asia	
+SRR13587583	20	Gastrointestinal	Asia	
+SRR13587584	18	Gastrointestinal	Asia	
+SRR13587585	7	Pleural and Thoracic	Asia	
+SRR13587586	18	Gastrointestinal	Asia	
+SRR13587587	1	Circulatory	Asia	CNV on chr3
+SRR13587588	12	Circulatory	Asia	
+SRR13587589	18	Circulatory	Asia	
+SRR13587590	15	Circulatory	Asia	
+SRR13587592	17	Circulatory	Asia	
+SRR13587593	3	Circulatory	Asia	
+SRR13587594	17	Circulatory	Asia	
+SRR13587595	8	Circulatory	Asia	
+SRR13587596	11	Circulatory	Asia	chr7
+SRR13587597	8	Circulatory	Asia	
+SRR13587598	18	Gastrointestinal	Asia	
+SRR13587600	6	Pleural and Thoracic	Asia	
+SRR13587601	15	Circulatory	Asia	
+SRR13587602	3	Circulatory	Asia	
+SRR13587603	1	Skin	Asia	
+SRR13587604	18	Skin	Asia	
+SRR13587605	4	Circulatory	Asia	
+SRR13587606	8	Circulatory	Asia	
+SRR13587607	8	Circulatory	Asia	
+SRR13587608	8	Circulatory	Asia	
+SRR13587609	1	Miscellaneous	Asia	CNV on chr3
+SRR13587610	15	Pleural and Thoracic	Asia	
+SRR13587611	8	Circulatory	Asia	
+SRR13587612	9	Circulatory	Asia	chr7
+SRR13587613	17	Pleural and Thoracic	Asia	
+SRR13587614	18	Pleural and Thoracic	Asia	
+SRR13587615	1	Pleural and Thoracic	Asia	
+SRR13587616	9	Pleural and Thoracic	Asia	
+SRR13587618	1	Circulatory	Asia	
+SRR13587619	8	Circulatory	Asia	
+SRR13587620	18	Circulatory	Asia	
+SRR13587621	1	Skin	Asia	
+SRR13587622	15	Pleural and Thoracic	Asia	
+SRR13587623	1	Pleural and Thoracic	Asia	
+SRR13587624	8	Pleural and Thoracic	Asia	
+SRR13587625	20	Circulatory	Asia	
+SRR13587626	4	Pleural and Thoracic	Asia	
+SRR13587627	12	Circulatory	Asia	
+SRR13587628	15	Circulatory	Asia	
+SRR13587629	18	Circulatory	Asia	
+SRR13587630	1	Pleural and Thoracic	Asia	
+SRR13587631	1	Gastrointestinal	Asia	
+SRR13587632	1	Gastrointestinal	Asia	
+SRR13587633	17	Circulatory	Asia	
+SRR13587634	12	Circulatory	Asia	segmental deletion CNV chr7
+SRR13587635	1	Circulatory	Asia	
+SRR13587636	3	Circulatory	Asia	
+SRR13587637	4	Circulatory	Asia	
+SRR13587638	18	Circulatory	Asia	
+SRR13587639	20	Circulatory	Asia	ch4rR,chrRR
+SRR13587640	15	Circulatory	Asia	
+SRR13587641	17	Circulatory	Asia	
+SRR13587642	8	Circulatory	Asia	
+SRR13587643	8	Circulatory	Asia	chr2
+SRR13587644	18	Circulatory	Asia	
+SRR13587645	12	Circulatory	Asia	
+SRR13587646	17	Circulatory	Asia	
+SRR13587647	17	Circulatory	Asia	
+SRR13587648	17	Circulatory	Asia	
+SRR13587649	12	Circulatory	Asia	
+SRR13587650	12	Circulatory	Asia	CNV on chrR
+SRR13587651	15	Circulatory	Asia	
+SRR13587652	11	Circulatory	Asia	
+SRR13587653	18	Circulatory	Asia	
+SRR13587654	8	Circulatory	Asia	
+SRR13587655	20	Circulatory	Asia	
+SRR13587656	8	Circulatory	Asia	
+SRR13587657	15	Skin	Asia	chr3,chr4,ch5,ch6,chR
+SRR13587658	8	Circulatory	Asia	
+SRR13587659	7	Circulatory	Asia	
+SRR13587660	15	Circulatory	Asia	
+SRR13587661	1	Miscellaneous	Asia	
+SRR13587662	18	Circulatory	Asia	
+SRR13587663	5	Pleural and Thoracic	Asia	
+SRR13587664	17	Circulatory	Asia	
+SRR13587665	8	Circulatory	Asia	
+SRR13587666	20	Circulatory	Asia	
+SRR13587667	17	Circulatory	Asia	
+SRR13587668	1	Pleural and Thoracic	Asia	CNV on chr3
+SRR13587669	17	Circulatory	Asia	
+SRR13587670	15	Circulatory	Asia	
+SRR13587671	8	Circulatory	Asia	
+SRR13587672	1	Circulatory	Asia	CNV on chr3
+SRR13587673	4	Circulatory	Asia	chr7
+SRR13587674	12	Circulatory	Asia	
+SRR13587676	15	Circulatory	Asia	
+SRR13587677	1	Circulatory	Asia	
+SRR13587678	14	Pleural and Thoracic	Asia	
+SRR13587679	1	Pleural and Thoracic	Asia	
+SRR13587680	8	Circulatory	Asia	chr2,chr3,chr6,chrR
+SRR13587681	7	Circulatory	Asia	
+SRR13587682	8	Circulatory	Asia	
+SRR13587683	4	Circulatory	Asia	
+SRR13587684	8	Circulatory	Asia	
+SRR13587685	4	Circulatory	Asia	
+SRR13587686	15	Circulatory	Asia	
+SRR13587687	8	Circulatory	Asia	
+SRR13587688	15	Circulatory	Asia	
+SRR13587689	15	Circulatory	Asia	
+SRR13587690	8	Circulatory	Asia	
+SRR13587691	1	Circulatory	Asia	
+SRR13587692	11	Circulatory	Asia	
+SRR13587694	18	Circulatory	Asia	
+SRR13587695	8	Circulatory	Asia	
+SRR13587696	6	Circulatory	Asia	
+SRR13587698	19	Circulatory	Asia	
+SRR13587699	18	Circulatory	Asia	
+SRR13587700	18	Circulatory	Asia	
+SRR13587701	1	Circulatory	Asia	
+SRR13587702	18	Circulatory	Asia	
+SRR13587703	1	Circulatory	Asia	
+SRR13587704	1	Pleural and Thoracic	Asia	
+SRR13587705	7	Circulatory	Asia	
+SRR13587706	18	Circulatory	Asia	
+SRR13587707	1	Circulatory	Asia	
+SRR13587709	20	Circulatory	Asia	
+SRR13587710	20	Circulatory	Asia	
+SRR13587711	15	Circulatory	Asia	
+SRR13587712	15	Circulatory	Asia	chrRR
+SRR13587713	20	Circulatory	Asia	
+SRR13587714	15	Circulatory	Asia	
+SRR13587715	15	Circulatory	Asia	
+SRR13587716	15	Circulatory	Asia	
+SRR13587717	15	Circulatory	Asia	
+SRR13587718	5	Circulatory	Asia	
+SRR13587719	15	Circulatory	Asia	
+SRR13587720	17	Circulatory	Asia	
+SRR13587721	15	Circulatory	Asia	
+SRR13587722	4	Circulatory	Asia	
+SRR13587723	15	Circulatory	Asia	
+SRR13587724	15	Circulatory	Asia	
+SRR13587725	15	Circulatory	Asia	
+SRR13587726	8	Circulatory	Asia	
+SRR13587727	15	Circulatory	Asia	
+SRR13587728	1	Circulatory	Asia	
+SRR13587729	18	Circulatory	Asia	
+SRR13587730	8	Circulatory	Asia	
+SRR13587731	8	Circulatory	Asia	
+SRR13587733	17	Circulatory	Asia	
+SRR13587734	18	Circulatory	Asia	
+SRR13587735	3	Circulatory	Asia	
+SRR13587738	7	Gastrointestinal	Asia	
+SRR13587739	20	Circulatory	Asia	
+SRR13587740	18	Circulatory	Asia	
+SRR13587741	17	Circulatory	Asia	
+SRR13587742	17	Circulatory	Asia	
+SRR13587743	1	Circulatory	Asia	
+SRR13587744	18	Pleural and Thoracic	Asia	
+SRR13587745	12	Circulatory	Asia	
+SRR13587746	6	Circulatory	Asia	chr7
+SRR13587747	11	Circulatory	Asia	
+SRR13587748	6	Circulatory	Asia	chr5
+SRR13587749	4	Circulatory	Asia	chr4
+SRR13587750	6	Circulatory	Asia	
+SRR13587751	8	Circulatory	Asia	
+SRR13587752	1	Circulatory	Asia	
+SRR13587753	15	Circulatory	Asia	
+SRR13587754	6	Circulatory	Asia	
+SRR13587755	18	Circulatory	Asia	
+SRR13587756	1	Circulatory	Asia	
+SRR13587757	20	Circulatory	Asia	
+SRR13587758	1	Circulatory	Asia	CNV on chr3
+SRR13587759	8	Circulatory	Asia	
+SRR13587760	3	Circulatory	Asia	
+SRR13587761	3	Circulatory	Asia	chr7
+SRR13587762	6	Circulatory	Asia	
+SRR13587763	1	Skin	Asia	
+SRR13587764	15	Circulatory	Asia	
+SRR13587765	15	Circulatory	Asia	
+SRR13587766	8	Pleural and Thoracic	Asia	
+SRR13587767	18	Circulatory	Asia	
+SRR13587768	15	Circulatory	Asia	
+SRR13587769	8	Circulatory	Asia	
+SRR13587770	9	Circulatory	Asia	
+SRR13587771	12	Pleural and Thoracic	Asia	
+SRR13587772	17	Circulatory	Asia	
+SRR13587773	3	Circulatory	Asia	
+SRR13587774	3	Circulatory	Asia	
+SRR13587775	1	Circulatory	Asia	
+SRR13587776	1	Circulatory	Asia	
+SRR13587777	18	Circulatory	Asia	
+SRR13587778	17	Circulatory	Asia	
+SRR13587779	15	Circulatory	Asia	
+SRR13587780	16	Circulatory	Asia	
+SRR13587781	12	Circulatory	Asia	
+SRR13587782	15	Circulatory	Asia	chr7
+SRR13587783	8	Circulatory	Asia	
+SRR13587785	3	Circulatory	Asia	
+SRR13587786	1	Circulatory	Asia	
+SRR13587787	1	Circulatory	Asia	
+SRR13587788	1	Circulatory	Asia	
+SRR13587789	1	Circulatory	Asia	
+SRR13587790	12	Circulatory	Asia	
+SRR13587791	1	Circulatory	Asia	
+SRR13587792	18	Circulatory	Asia	
+SRR13587793	1	Skin	Asia	
+SRR13587794	1	Circulatory	Asia	
+SRR13587795	21	Circulatory	Asia	
+SRR13587796	18	Circulatory	Asia	
+SRR13587797	1	Circulatory	Asia	
+SRR13587798	20	Circulatory	Asia	
+SRR13587799	17	Circulatory	Asia	
+SRR13587800	17	Circulatory	Asia	
+SRR13587801	5	Circulatory	Asia	
+SRR13587802	18	Circulatory	Asia	
+SRR13587803	8	Circulatory	Asia	
+SRR13587804	7	Circulatory	Asia	
+SRR13587805	8	Circulatory	Asia	
+SRR13587806	15	Gastrointestinal	Asia	chrR
+SRR13587807	1	Circulatory	Asia	
+SRR13587808	14	Circulatory	Asia	
+SRR13587809	15	Circulatory	Asia	
+SRR13587810	19	Circulatory	Asia	
+SRR13587811	1	Skin	Asia	
+SRR13587812	1	Circulatory	Asia	
+SRR13587813	8	Circulatory	Asia	
+SRR13587814	15	Circulatory	Asia	
+SRR13587815	18	Circulatory	Asia	
+SRR13587816	12	Circulatory	Asia	
+SRR13587817	1	Circulatory	Asia	
+SRR13587818	18	Circulatory	Asia	
+SRR13587819	17	Circulatory	Asia	
+SRR13587820	18	Circulatory	Asia	
+SRR13587821	12	Circulatory	Asia	
+SRR13587822	15	Circulatory	Asia	
+SRR13587823	12	Circulatory	Asia	
+SRR13587824	10	Circulatory	Asia	
+SRR13587825	12	Circulatory	Asia	
+SRR13587827	6	Circulatory	Asia	
+SRR13587828	1	Circulatory	Asia	
+SRR13587829	18	Circulatory	Asia	
+SRR13587830	18	Circulatory	Asia	
+SRR13587831	8	Circulatory	Asia	
+SRR13587832	15	Circulatory	Asia	
+SRR13587833	15	Pleural and Thoracic	Asia	
+SRR13587834	9	Circulatory	Asia	
+SRR13587835	8	Miscellaneous	Asia	
+SRR13587836	6	Circulatory	Asia	
+SRR13587837	15	Gastrointestinal	Asia	
+SRR13587838	15	Pleural and Thoracic	Asia	
+SRR13587839	1	Pleural and Thoracic	Asia	
+SRR13587840	20	Circulatory	Asia	
+SRR13587841	20	Circulatory	Asia	
+SRR13587842	8	Circulatory	Asia	
+SRR13587843	18	Pleural and Thoracic	Asia	
+SRR13587844	1	Circulatory	Asia	
+SRR13587846	15	Circulatory	Asia	
+SRR13587847	12	Circulatory	Asia	
+SRR13587848	1	Circulatory	Asia	
+SRR13587849	17	Circulatory	Asia	
+SRR13587850	10	Circulatory	Asia	
+SRR13587851	5	Circulatory	Asia	
+SRR13587853	5	Gastrointestinal	Asia	
+SRR13587855	20	Circulatory	Asia	
+SRR13587858	5	Skin	Asia	
+SRR13587859	18	Circulatory	Asia	
+SRR13587860	3	Gastrointestinal	Asia	
+SRR13587861	15	Pleural and Thoracic	Asia	
+SRR13587862	18	Pleural and Thoracic	Asia	
+SRR13587863	18	Circulatory	Asia	
+SRR13587864	18	Skin	Asia	
+SRR13587865	17	Circulatory	Asia	
+SRR13587866	15	Circulatory	Asia	
+SRR13587867	10	Circulatory	Asia	
+SRR13587868	7	Circulatory	Asia	chr2,chr3,chr4,chr7
+SRR13587870	1	Pleural and Thoracic	Asia	
+SRR13587872	20	Circulatory	Asia	
+SRR13587873	1	Skin	Asia	CNV on chr3
+SRR13587874	7	Circulatory	Asia	
+SRR13587875	8	Circulatory	Asia	
+SRR13587876	4	Circulatory	Asia	
+SRR13587877	20	Circulatory	Asia	
+SRR13587878	1	Circulatory	Asia	chr5,chr7
+SRR13587879	4	Circulatory	Asia	chr6R
+SRR13587880	15	Circulatory	Asia	
+SRR13587882	18	Circulatory	Asia	
+SRR13587883	4	Circulatory	Asia	chr6R
+SRR13587885	8	Pleural and Thoracic	Asia	
+SRR13587886	9	Circulatory	Asia	
+SRR13587887	9	Pleural and Thoracic	Asia	
+SRR13587888	8	Skin	Asia	
+SRR13587889	1	Circulatory	Asia	chr3R
+SRR13741095	1	Gastrointestinal	North America	
+SRR13741096	1	Gastrointestinal	North America	
+SRR13741097	1	Gastrointestinal	North America	
+SRR13741099	1	Gastrointestinal	North America	
+SRR13741101	1	Gastrointestinal	North America	
+SRR13741102	1	Gastrointestinal	North America	
+SRR13741103	1	Gastrointestinal	North America	
+SRR13741106	8	Gastrointestinal	North America	
+SRR13741107	8	Gastrointestinal	North America	
+SRR13741108	1	Gastrointestinal	North America	
+SRR13741109	2	Gastrointestinal	North America	
+SRR13741110	15	Gastrointestinal	North America	
+SRR13741112	3	Gastrointestinal	North America	
+SRR13741113	3	Gastrointestinal	North America	
+SRR13741114	15	Gastrointestinal	North America	
+SRR13741116	19	Gastrointestinal	North America	
+SRR13741117	19	Gastrointestinal	North America	
+SRR13741118	1	Gastrointestinal	North America	chr4,chrR
+SRR13741120	2	Gastrointestinal	North America	
+SRR13741121	2	Gastrointestinal	North America	
+SRR13741122	1	Gastrointestinal	North America	
+SRR13741124	1	Gastrointestinal	North America	
+SRR13741125	1	Gastrointestinal	North America	
+SRR13741126	2	Gastrointestinal	North America	
+SRR13741127	2	Gastrointestinal	North America	
+SRR13741128	1	Gastrointestinal	North America	
+SRR14902701	4	Circulatory	Europe	
+SRR14902704	8	Circulatory	Europe	
+SRR14902705	4	Circulatory	Europe	
+SRR14902709	11	Circulatory	Europe	
+SRR14902711	8	Circulatory	Europe	
+SRR1544598	1	Oral	North America	chr4,chr5
+SRR1544621	1	Oral	North America	
+SRR1544628	1	Oral	North America	
+SRR1548194	1	Oral	North America	
+SRR1554174	3	Oral	North America	
+SRR1554178	3	Oral	North America	chr5
+SRR1554184	15	Oral	North America	
+SRR1554287	15	Oral	North America	chr5
+SRR1554297	2	Oral	North America	chr5
+SRR1554304	1	Oral	North America	chr5R
+SRR1554307	2	Oral	North America	
+SRR1554310	15	Oral	North America	chr2R,chr5L
+SRR16959048	7	Circulatory	North America	
+SRR16974326	19	Skin	South America	
+SRR19696079	12	Circulatory	Asia	
+SRR19696090	15	Circulatory	Asia	
+SRR19696094	7	Circulatory	Asia	
+SRR19696096	14	Circulatory	Asia	
+SRR19696097	7	Circulatory	Asia	
+SRR19696098	1	Circulatory	Asia	
+SRR19696099	11	Circulatory	Asia	
+SRR19696100	1	Circulatory	Asia	
+SRR19696101	8	Circulatory	Asia	
+SRR19696102	14	Circulatory	Asia	
+SRR19696103	8	Circulatory	Asia	
+SRR19696104	18	Circulatory	Asia	
+SRR19696105	20	Circulatory	Asia	
+SRR19696106	14	Circulatory	Asia	
+SRR19696107	18	Circulatory	Asia	
+SRR19696108	8	Circulatory	Asia	
+SRR19696109	8	Circulatory	Asia	
+SRR19696110	18	Circulatory	Asia	
+SRR19696111	15	Circulatory	Asia	
+SRR19696113	12	Circulatory	Asia	
+SRR19696114	18	Circulatory	Asia	
+SRR19696115	18	Circulatory	Asia	
+SRR19696116	7	Circulatory	Asia	
+SRR19696118	20	Circulatory	Asia	
+SRR19696119	7	Circulatory	Asia	
+SRR19696137	1	Circulatory	Asia	
+SRR19696148	14	Circulatory	Asia	
+SRR19696159	12	Circulatory	Asia	
+SRR19696167	15	Circulatory	Asia	
+SRR19696178	4	Circulatory	Asia	
+SRR19696189	8	Circulatory	Asia	
+SRR19696200	7	Circulatory	Asia	
+SRR19696211	7	Circulatory	Asia	
+SRR19696222	15	Circulatory	Asia	
+SRR19696233	15	Circulatory	Asia	
+SRR19696244	15	Circulatory	Asia	
+SRR19696255	17	Circulatory	Asia	
+SRR19696266	8	Circulatory	Asia	
+SRR19696267	S	Circulatory	Asia	
+SRR19696268	9	Circulatory	Asia	
+SRR2088860	4	Oral	North America	
+SRR2088861	4	Oral	North America	
+SRR2088862	4	Oral	North America	
+SRR2088863	4	Oral	North America	
+SRR21359688	1	Oral	North America	
+SRR21359695	1	Oral	North America	
+SRR21359696	1	Oral	North America	
+SRR21359701	15	Oral	North America	
+SRR21359702	12	Oral	North America	
+SRR21359704	1	Gastrointestinal	North America	chr6
+SRR21359705	11	Oral	North America	
+SRR21359707	3	Oral	North America	
+SRR21359708	1	Oral	North America	
+SRR21359710	1	Gastrointestinal	North America	
+SRR21359712	15	Oral	North America	
+SRR21359713	8	Oral	North America	
+SRR21359715	14	Gastrointestinal	North America	
+SRR21359717	4	Oral	North America	
+SRR21359718	1	Oral	North America	
+SRR21359719	14	Oral	North America	
+SRR21359722	14	Gastrointestinal	North America	
+SRR21359728	1	Gastrointestinal	North America	
+SRR21359729	1	Gastrointestinal	North America	
+SRR21359731	1	Oral	North America	
+SRR21359732	3	Gastrointestinal	North America	
+SRR22908971	3	Oral	North America	
+SRR22908972	1	Oral	North America	
+SRR22908973	1	NA	NA	
+SRR22908974	3	Oral	North America	
+SRR22908975	2	Oral	North America	
+SRR22908976	9	Oral	North America	
+SRR22908977	1	Skin	North America	
+SRR22908978	1	Skin	North America	
+SRR22908979	1	NA	North America	
+SRR22908980	1	NA	NA	
+SRR22908981	1	Oral	North America	
+SRR22908982	9	Oral	North America	
+SRR23500525	3	Oral	North America	
+SRR23500527	1	Oral	North America	
+SRR23500528	3	Oral	North America	
+SRR23500531	1	Oral	North America	
+SRR23500535	8	Oral	North America	
+SRR23500536	1	Oral	North America	
+SRR23500540	1	Oral	North America	
+SRR23500542	1	Oral	North America	
+SRR23500548	1	Oral	North America	
+SRR23500549	1	Oral	North America	
+SRR23500552	1	Oral	North America	
+SRR23500555	4	Oral	North America	
+SRR23500556	1	Oral	North America	
+SRR23500558	1	Oral	North America	
+SRR23500561	1	Oral	North America	
+SRR23500562	4	Oral	North America	
+SRR23500566	1	Oral	North America	
+SRR23500567	4	Oral	North America	
+SRR23500569	1	Oral	North America	
+SRR23500574	4	Oral	North America	
+SRR23500577	1	Oral	North America	
+SRR23500581	1	Oral	North America	
+SRR23500590	1	Oral	North America	
+SRR23500592	1	Oral	North America	
+SRR23500595	2	Oral	North America	
+SRR23500596	3	Oral	North America	
+SRR23500599	1	Oral	North America	
+SRR23500601	1	Oral	North America	
+SRR23500602	1	Oral	North America	
+SRR23500603	3	Oral	North America	
+SRR23500604	1	Oral	North America	
+SRR23500606	1	Oral	North America	
+SRR23500610	2	Oral	North America	
+SRR23500611	1	Oral	North America	
+SRR23500613	1	Oral	North America	
+SRR23500614	1	Oral	North America	
+SRR23500616	1	Oral	North America	
+SRR23500617	2	Oral	North America	
+SRR23500620	11	Oral	North America	
+SRR23500624	3	Oral	North America	
+SRR23500626	8	Oral	North America	
+SRR23500628	2	Oral	North America	
+SRR23500629	1	Oral	North America	
+SRR23500630	4	Oral	North America	
+SRR23500631	2	Oral	North America	
+SRR23500632	9	Oral	North America	
+SRR23500633	1	Oral	North America	
+SRR23500634	2	Oral	North America	
+SRR23500639	3	Oral	North America	
+SRR23500642	1	Oral	North America	
+SRR23500647	3	Oral	North America	
+SRR23500650	2	Oral	North America	
+SRR23500652	9	Oral	North America	
+SRR23500653	3	Oral	North America	
+SRR23500654	8	Oral	North America	
+SRR23500655	2	Oral	North America	
+SRR23500657	8	Oral	North America	
+SRR23500659	12	Oral	North America	
+SRR23500660	1	Oral	North America	
+SRR23500663	1	Oral	North America	
+SRR23500666	4	Oral	North America	
+SRR23500668	1	Oral	North America	
+SRR23500669	1	Oral	North America	
+SRR23500671	2	Oral	North America	
+SRR23500674	1	Oral	North America	
+SRR23500677	1	Oral	North America	
+SRR23500680	1	Oral	North America	
+SRR23500685	2	Oral	North America	
+SRR23500686	4	Oral	North America	
+SRR23500687	2	Oral	North America	
+SRR23500692	1	Oral	North America	
+SRR23500693	1	Oral	North America	NA
+SRR23500696	2	Oral	North America	
+SRR23500697	1	Oral	North America	
+SRR23500702	1	Oral	North America	
+SRR23500704	1	Oral	North America	
+SRR23500709	1	Oral	North America	
+SRR23500711	3	Oral	North America	
+SRR23500713	4	Oral	North America	
+SRR23500714	1	Oral	North America	
+SRR23500715	1	Oral	North America	
+SRR23500720	2	Oral	North America	
+SRR23500730	1	Oral	North America	
+SRR23500740	1	Oral	North America	
+SRR23500741	11	Oral	North America	
+SRR23500745	4	Oral	North America	
+SRR23500749	1	Oral	North America	
+SRR23500751	3	Oral	North America	
+SRR23500753	1	Oral	North America	
+SRR23500754	1	Oral	North America	
+SRR23500758	4	Oral	North America	
+SRR23500759	1	Oral	North America	
+SRR23500762	8	Oral	North America	
+SRR23500767	4	Oral	North America	
+SRR23500768	2	Oral	North America	
+SRR23500771	8	Oral	North America	
+SRR23500772	3	Oral	North America	
+SRR23500777	1	Oral	North America	
+SRR23500779	1	Oral	North America	
+SRR23500780	1	Oral	North America	
+SRR23500781	1	Oral	North America	
+SRR23500784	1	Oral	North America	
+SRR23500786	3	Oral	North America	
+SRR23500787	8	Oral	North America	
+SRR23500788	2	Oral	North America	
+SRR23500790	1	Oral	North America	
+SRR23500792	11	Oral	North America	
+SRR23500796	1	Oral	North America	
+SRR23500797	1	Oral	North America	
+SRR23500798	1	Oral	North America	
+SRR23500799	4	Oral	North America	
+SRR23500803	1	Oral	North America	
+SRR23921795	1	Pleural and Thoracic	North America	
+SRR24010553	11	NA	North America	
+SRR25130063	1	Vagina	North America	
+SRR25130075	1	Vagina	North America	
+SRR25130085	1	Vagina	North America	
+SRR25168907	2	NA	North America	
+SRR25169055	1	NA	North America	
+SRR25361690	1	NA	North America	
+SRR25726592	10	Oral	Africa	
+SRR3593469	1	Oral	North America	
+SRR392813	1	Oral	NA	chr4
+SRR393515	2	Circulatory	North America	
+SRR393516	1	Oral	North America	
+SRR393519	11	Circulatory	Europe	chr5
+SRR393527	2	Circulatory	North America	
+SRR393528	1	Circulatory	North America	
+SRR397731	1	Vagina	North America	chr7
+SRR530262	15	Circulatory	North America	chr4,chr6,chrrR
+SRR538771	20	Pleural and Thoracic	North America	
+SRR538773	1	Oral	North America	
+SRR538774	1	Circulatory	North America	
+SRR538779	1	Oral	North America	
+SRR538782	3	Oral	North America	
+SRR538785	1	NA	NA	
+SRR538786	1	Oral	NA	
+SRR540283	2	Circulatory	North America	
+SRR540285	1	Oral	North America	
+SRR543720	1	Vagina	North America	chr7
+SRR543721	4	Circulatory	Asia	
+SRR543723	15	Circulatory	North America	chr1L
+SRR543724	3	Circulatory	North America	chr4
+SRR543726	3	Circulatory	North America	
+SRR543727	4	Circulatory	Europe	
+SRR543729	3	Circulatory	Europe	
+SRR543730	4	Oral	Africa	
+SRR640897	1	Oral	North America	chr6R,chr7R
+SRR641726	3	Oral	North America	
+SRR646260	15	Oral	North America	
+SRR6669848	4	Urogenital	Europe	
+SRR6669849	2	Oral	Europe	
+SRR6669850	4	Oral	Europe	
+SRR6669851	1	Oral	Europe	
+SRR6669852	4	Oral	Europe	
+SRR6669853	18	Circulatory	Asia	
+SRR6669854	11	Gastrointestinal	Europe	
+SRR6669855	18	Circulatory	Asia	segmental deletion on chrR
+SRR6669856	18	Circulatory	Asia	
+SRR6669857	4	Circulatory	Europe	
+SRR6669858	8	Gastrointestinal	South America	
+SRR6669861	12	Circulatory	Europe	
+SRR6669862	11	Urogenital	Europe	
+SRR6669863	4	Circulatory	Europe	chrRR
+SRR6669864	12	Circulatory	Europe	
+SRR6669865	3	Circulatory	Europe	
+SRR6669866	1	Circulatory	Europe	
+SRR6669875	3	Oral	Africa	
+SRR6669876	1	Vagina	Africa	
+SRR6669877	8	Vagina	South America	
+SRR6669878	1	Vagina	South America	
+SRR6669879	12	Oral	Europe	
+SRR6669881	8	Vagina	South America	
+SRR6669882	1	Vagina	South America	
+SRR6669883	3	Oral	Europe	
+SRR6669884	1	Vagina	Africa	
+SRR6669887	1	Environmental	Europe	
+SRR6669888	1	Environmental	Europe	
+SRR6669889	11	Oral	Europe	
+SRR6669891	11	Environmental	Europe	chr5,chrR
+SRR6669892	1	Environmental	Europe	
+SRR6669893	4	Environmental	Europe	
+SRR6669894	20	Environmental	Europe	
+SRR6669895	15	Urogenital	Europe	
+SRR6669896	1	Circulatory	Europe	
+SRR6669897	6	Circulatory	Europe	
+SRR6669898	16	Urogenital	Europe	
+SRR6669900	1	Urogenital	Europe	
+SRR6669901	4	Urogenital	Europe	
+SRR6669902	1	Urogenital	Europe	
+SRR6669903	15	Urogenital	Europe	
+SRR6669904	9	Urogenital	Europe	
+SRR6669905	2	Environmental	Europe	
+SRR6669906	2	Environmental	Europe	
+SRR6669907	5	Environmental	Europe	
+SRR6669908	15	Environmental	Europe	
+SRR6669909	1	Environmental	Europe	chr7
+SRR6669910	2	Environmental	Europe	
+SRR6669911	11	Environmental	Europe	
+SRR6669912	1	Environmental	Europe	
+SRR6669913	1	Environmental	Europe	
+SRR6669914	2	Environmental	Europe	
+SRR6669915	11	Gastrointestinal	Europe	
+SRR6669916	1	Oral	Africa	
+SRR6669917	3	Circulatory	Europe	
+SRR6669918	3	Oral	Europe	
+SRR6669919	16	Environmental	Europe	
+SRR6669920	3	Circulatory	Europe	chr2, CNV on chr1
+SRR6669921	4	Vagina	Africa	
+SRR6669922	11	Oral	Europe	chr7
+SRR6669924	1	Vagina	Africa	
+SRR6669925	20	Urogenital	Europe	
+SRR6669926	9	Gastrointestinal	Europe	
+SRR6669927	1	Environmental	Europe	
+SRR6669928	1	Urogenital	Europe	
+SRR6669929	1	Skin	Europe	
+SRR6669930	1	Vagina	Africa	
+SRR6669931	2	Circulatory	Europe	
+SRR6669932	1	Vagina	Africa	
+SRR6669934	1	Environmental	Europe	
+SRR6669935	15	Environmental	Europe	
+SRR6669936	4	Vagina	Africa	
+SRR6669937	4	Vagina	Africa	
+SRR6669938	4	Vagina	Africa	
+SRR6669939	1	Vagina	Africa	
+SRR6669940	2	Vagina	Africa	chr5
+SRR6669941	2	Vagina	Africa	
+SRR6669942	2	Vagina	Africa	chr5
+SRR6669943	8	Vagina	Africa	
+SRR6669944	10	Vagina	Africa	
+SRR6669945	1	Vagina	Africa	
+SRR6669946	2	Urogenital	Europe	
+SRR6669947	12	Oral	Europe	
+SRR6669948	1	Oral	Europe	chr7
+SRR6669949	10	Urogenital	Europe	
+SRR6669950	1	Urogenital	Europe	
+SRR6669951	1	Skin	Europe	
+SRR6669952	1	Oral	Europe	
+SRR6669953	15	Oral	Europe	
+SRR6669954	20	Skin	Europe	
+SRR6669955	20	Urogenital	Europe	
+SRR6669956	5	Urogenital	Europe	
+SRR6669957	18	Circulatory	Asia	
+SRR6669958	4	Urogenital	Europe	
+SRR6669959	10	Urogenital	Europe	
+SRR6669962	1	Oral	Europe	
+SRR6669963	4	Circulatory	Europe	
+SRR6669964	4	Circulatory	Europe	
+SRR6669965	12	Vagina	Africa	
+SRR6669966	4	Vagina	Africa	
+SRR6669967	4	Vagina	Africa	
+SRR6669968	1	Vagina	Africa	
+SRR6669969	9	Oral	Europe	
+SRR6669971	20	Gastrointestinal	Europe	
+SRR6669972	11	Oral	Europe	
+SRR6669978	4	Oral	Europe	
+SRR6669979	3	Oral	Europe	
+SRR6669980	4	Oral	Europe	
+SRR6669981	4	Oral	Europe	
+SRR6669982	12	Oral	Europe	
+SRR6669983	12	Circulatory	Europe	
+SRR6669984	2	Gastrointestinal	Europe	
+SRR6669985	16	Environmental	Europe	
+SRR6669986	4	Urogenital	Europe	
+SRR6669987	2	Gastrointestinal	Europe	
+SRR6669988	3	Urogenital	Europe	
+SRR6669989	15	Circulatory	Europe	chr6
+SRR6669990	4	Vagina	Africa	
+SRR6669991	3	Gastrointestinal	Europe	
+SRR6669992	2	Oral	Europe	
+SRR6669993	4	Urogenital	Europe	
+SRR6669994	9	Vagina	Europe	
+SRR6670002	2	Vagina	Asia	
+SRR6670003	2	Vagina	Asia	
+SRR6670004	9	Urogenital	Europe	
+SRR6670005	12	Oral	Africa	
+SRR6670006	4	Circulatory	Europe	
+SRR6670007	4	NA	NA	
+SRR6670008	1	Oral	Africa	
+SRR6670009	11	Urogenital	Europe	
+SRR6670010	1	Circulatory	North America	
+SRR6670011	3	Circulatory	Europe	
+SRR6670012	1	Vagina	Africa	
+SRR6670013	2	Circulatory	Europe	
+SRR6670014	4	Circulatory	Europe	
+SRR6670015	4	Urogenital	Europe	
+SRR6670018	11	Circulatory	Europe	
+SRR6670019	2	Urogenital	Europe	
+SRR6670021	1	Circulatory	Europe	
+SRR6670022	1	Vagina	Asia	
+SRR7801909	2	Oral	Europe	
+SRR7801910	2	Oral	Europe	
+SRR7801911	1	Oral	Europe	
+SRR7801912	1	Oral	Europe	
+SRR7801913	3	Oral	Europe	
+SRR7801914	1	Oral	Europe	
+SRR7801916	3	Oral	Europe	
+SRR7801917	2	Oral	Europe	
+SRR7801918	6	Circulatory	Europe	
+SRR7801919	1	Vagina	South America	
+SRR7801922	1	Vagina	South America	
+SRR7801923	1	Vagina	Africa	
+SRR7801925	6	Circulatory	Europe	
+SRR848046	16	Oral	Europe	
+SRR9073715	1	NA	North America	CNV on chr1
+SRR9073716	1	NA	North America	CNV on chr1
