@@ -1,0 +1,42 @@
+Isolate_Name	Country	Continent	Source
+HAME38	France	Europe	Oral
+QD60	China	Asia	Circulatory
+Bougn15	France	Europe	Circulatory
+Z2016	China	Asia	Circulatory
+GX22	China	Asia	Circulatory
+GX16	China	Asia	Circulatory
+2501	USA	North America	Oral
+5106	USA	North America	Oral
+12C	NA	NA	Oral
+P78042	USA	North America	Circulatory
+1649	USA	North America	Oral
+HSC083	Canada	North America	Urogenital
+IDB104	USA	North America	Gastrointestinal
+1619	USA	North America	Oral
+2823	USA	North America	Oral
+3034	USA	North America	Oral
+3107	USA	North America	Oral
+P75010	Belgium	Europe	Circulatory
+M7	Morocco	Africa	Vagina
+M6	Morocco	Africa	Vagina
+GZ243	China	Asia	Circulatory
+P60002	USA	North America	Circulatory
+CEC4495	France	Europe	Environmental
+831-2	USA	North America	Gastrointestinal
+Bougn9	France	Europe	Circulatory
+G1101	China	Asia	Circulatory
+2018-F2-279	Denmark	Europe	Urogenital
+HSC046	Canada	North America	Skin
+HSC050	Canada	North America	Skin
+HSC182	Canada	North America	Urogenital
+Y208	China	Asia	Circulatory
+FJ178	China	Asia	Circulatory
+Z419	China	Asia	Circulatory
+GH257	China	Asia	Circulatory
+W322	China	Asia	Circulatory
+19F	USA	North America	Vagina
+L26	USA	North America	Vagina
+CEC4484	France	Europe	Environmental
+MAN	France	Europe	Oral
+HSC139	Canada	North America	Urogenital
+Y265	China	Asia	Circulatory
