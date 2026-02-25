@@ -6,49 +6,6 @@ library(pophelper)
 #--- File paths ---
 qmatrix <- sprintf("data_out/03-Admixture/901_isolates/260109full_901_outfiles_K%d.qopt", c(6:20))
 
-#qmatrix <- read.table("data_out/03-Admixture/full_isolate/260109full__outfiles_K6.qopt")
-
-sample_ids <- read.table("data_out/03-Admixture/901_isolates/902_bam.txt")
-qmatrix$ind <- sample_ids$V1
-colnames(qmatrix)[1:6] <- paste0("K", 1:6)
-
-q_long <- qmatrix %>%
-  pivot_longer(
-    cols = starts_with("K"),
-    names_to = "Cluster",
-    values_to = "Ancestry"
-  )
-
-GW_LOH_744isolates <- read.csv("data_out/06-Heterozygosity/legacy/250813_744isolates_GW_LOH_table.csv")
-metadata <- GW_LOH_744isolates %>%
-  distinct(Sample, Proposed_final_clade, PhyloPos) %>%  # keep unique rows
-  arrange(PhyloPos)   
-
-q_long <- left_join(q_long, metadata[, c("Sample", "Proposed_final_clade","PhyloPos")], by = c("ind" = "Sample"))
-
-
-q_long$ind <- factor(q_long$ind, levels = metadata$PhyloPos)
-
-colors20 <- hcl(
-  h = seq(15, 375, length.out = 21)[-21],
-  c = 50,   # moderate chroma → not deep
-  l = 80    # high luminance → light
-)
-
-
-ggplot(q_long, aes(x = ind, y = Ancestry, fill = Cluster)) +
-  geom_bar(stat = "identity", width = 1) +
-  scale_fill_manual(values = colors20) +
-  labs(x = "Sample (ordered by tree)", y = "Ancestry proportion", title = "ADMIXTURE K = 29") +
-  theme_minimal() +
-  theme(
-    axis.text.x = element_blank(),
-    axis.ticks.x = element_blank()
-  )
-
-
-
-
 
 
 #Calculating the number of ancestries per isolate

@@ -1,0 +1,1383 @@
+"id","isolate","aliases","country","continent","region","year","source","detailed_source","diagnosis","age","sex","comments","sender","curator","date_entered","datestamp","AAT1a","ACC1","ADP1","MPIb","SYA1","VPS13","ZWF1b","ST..MLST."
+1,"Bougn16",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",1,1,1,1,1,1,1,1
+2,"Bougn03",NA,"France","Europe","Paris",NA,"vaginal swab",NA,NA,NA,"female",NA,4,2,"2014-12-19","2014-12-19",2,2,2,2,2,2,2,2
+3,"BougnCP06",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,3,3,3,3,3,3,3
+4,"Bougn01",NA,"France","Europe","Paris",NA,"skin",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,4,4,4,4,4,4,4
+5,"Bougn24",NA,"France","Europe","Paris",NA,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",5,5,2,2,2,5,5,5
+6,"Bougn05",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",5,3,5,2,2,6,2,6
+7,"Bougn20",NA,"France","Europe","Strasbourg",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",6,3,6,3,5,7,6,7
+8,"Bougn18",NA,"France","Europe","Paris",2002,"blood",NA,NA,NA,NA,NA,4,4,"2014-12-19","2014-12-19",7,3,7,1,6,8,7,8
+9,"Bougn23",NA,"France","Europe","Paris",NA,"other",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-07",2,5,2,2,2,9,5,9
+10,"Bougn26",NA,"France","Europe","Strasbourg",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,6,8,4,7,10,8,10
+11,"Bougn08",NA,"France","Europe","Lyon",2002,"blood",NA,NA,NA,NA,NA,4,4,"2014-12-19","2014-12-19",9,7,6,1,8,11,9,11
+12,"Bougn13",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",10,7,9,5,9,12,10,12
+13,"Bougn09",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,4,"2014-12-19","2014-12-19",11,8,6,4,10,13,8,13
+14,"Bougn22",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",12,9,10,3,11,14,3,14
+15,"Bougn10",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,4,"2014-12-19","2014-12-19",13,10,11,6,7,15,9,15
+16,"Bougn12",NA,"France","Europe","Nantes",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",7,3,3,4,3,16,11,16
+17,"Bougn15",NA,"France","Europe","Lyon",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,10,6,7,17,12,17
+18,"Bougn19",NA,"France","Europe","Paris",NA,"sputum",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,6,12,4,12,18,13,18
+19,"Bougn17",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,7,13,7,13,19,14,19
+20,"BougnCP14",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,20,5,20
+21,"BougnCP10",NA,"France","Europe","Paris",NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,6,2,2,21,5,21
+22,"BougnCP11",NA,"France","Europe","Paris",NA,"wound",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,14,6,7,22,15,22
+23,"Bougn28",NA,"France","Europe","lyon",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,7,23,15,23
+24,"BougnCP05",NA,"France","Europe","Paris",NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,5,24
+25,"BougnCP13",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,16,25
+26,"Bougn06",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,4,"2014-12-19","2014-12-19",14,3,6,8,7,3,8,26
+27,"Bougn11",NA,"France","Europe","Strasbourg",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,3,6,4,10,3,8,27
+28,"Bougn14",NA,"France","Europe","Nantes",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,3,6,4,7,3,17,28
+29,"Bougn04",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,5,2,29
+30,"BougnCP03",NA,"France","Europe","Paris",NA,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,9,2,5,5,30
+31,"BougnCP02",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",5,2,2,10,2,6,5,31
+32,"Bougn02",NA,"France","Europe","Paris",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,5,5,2,2,6,2,32
+33,"Bougn07",NA,"France","Europe","Lyon",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,7,17,9,33
+34,"Bougn21",NA,"France","Europe","Paris",NA,"vaginal swab",NA,NA,NA,"female",NA,4,2,"2014-12-19","2014-12-19",15,7,13,7,13,19,14,34
+35,"Bougn27",NA,"France","Europe","Nantes",NA,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,7,16,11,13,19,14,35
+36,"BougnCP04",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,3,4,6,10,20,18,36
+37,"BougnCP01",NA,"France","Europe","Paris",NA,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,21,5,37
+38,"BougnCP12",NA,"France","Europe","Paris",NA,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,21,19,38
+39,"B59630bis",NA,"Germany","Europe","Frankfurt",1991,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,25,12,39
+40,"81/193",NA,"USA","North America","Boston",1981,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,14,20,5,40
+41,"85/007",NA,"UK","Europe","London",1985,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,17,4,15,26,20,41
+42,"76/002",NA,"UK","Europe","Leicester",1976,"oral swab",NA,"healthy volunteer",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,3,2,2,2,25,21,42
+43,"83/004",NA,"USA","North America",NA,1983,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,12,2,27,5,43
+44,"J951361",NA,"UK","Europe","Glasgow",1995,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,2,5,12,2,28,5,44
+45,"J990102",NA,"Belgium","Europe",NA,1999,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,11,15,6,16,29,15,45
+46,"J990578",NA,"France","Europe","Paris",1999,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",16,12,18,13,17,30,22,46
+47,"AM9901",NA,"USA","North America",NA,1980,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,3,5,9,2,24,5,47
+48,"L2",NA,"Spain","Europe","Valencia",1985,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",17,3,19,14,18,30,23,48
+49,"J942099",NA,"USA","North America",NA,1994,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,20,49
+50,"J981367",NA,"USA","North America",NA,1998,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",5,5,5,9,2,31,2,50
+51,"C82",NA,"Switzerland","Europe","Lausanne",1993,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,20,15,19,32,24,51
+52,"SC5314",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,9,2,24,5,52
+53,"L293",NA,"UK","Europe","London",1985,"other","nose",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",18,5,21,16,20,33,12,53
+54,"90/189",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,2,16,2,34,5,54
+55,"90/205",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",19,5,6,17,21,35,12,55
+56,"J981315",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,13,14,6,7,32,15,56
+57,"73/034",NA,"UK","Europe","Leeds",1973,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,13,8,4,7,10,8,57
+58,"J990681",NA,"Canada","North America",NA,1999,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",20,14,6,2,22,36,20,58
+59,"J981305",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,6,5,59
+60,"J981301",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,24,5,60
+61,"J990677",NA,"Canada","North America",NA,1999,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,15,2,23,37,15,61
+62,"81/192",NA,"USA","North America","Texas",1981,"other","penis",NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,5,5,2,2,20,5,62
+63,"81/133",NA,"USA","North America","California",1981,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,25,63
+64,"81/207",NA,"USA","North America",NA,1981,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",20,3,22,9,24,30,26,64
+65,"J981309",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,15,5,2,2,6,5,65
+66,"J981303",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,6,5,66
+67,"76/004",NA,"UK","Europe","Leicester",1976,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,6,4,4,4,4,67
+68,"J981313",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",21,2,6,18,4,38,27,68
+69,"81/090",NA,"UK","Europe","Leicester",1981,"other","penis",NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+70,"81/151",NA,"USA","North America","Massachusetts",1981,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,5,6,2,2,27,28,70
+71,"J981326",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",22,3,3,3,3,39,13,71
+72,"81/191",NA,"USA","North America","Maryland",1981,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",23,3,22,3,3,40,13,72
+73,"78/028",NA,"UK","Europe","Leicester",1978,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,2,2,2,6,5,73
+74,"J981317",NA,"USA","North America",NA,1998,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,7,32,29,74
+75,"J981314",NA,"USA","North America",NA,1998,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,4,6,5,75
+76,"J981325",NA,"USA","North America",NA,1998,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,5,2,9,2,6,30,76
+77,"78/024",NA,"UK","Europe","Leicester",1978,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,23,2,25,41,31,77
+78,"J981307",NA,"USA","North America",NA,1998,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,6,9,2,6,5,78
+79,"TW2-76",NA,"USA","North America",NA,1993,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+80,"L343",NA,"UK","Europe","London",1985,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,16,6,4,7,42,32,80
+81,"81/156",NA,"USA","North America","Maryland",1981,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,6,2,2,5,20,81
+82,"85/050",NA,"UK","Europe","Leicester",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",24,7,16,2,13,43,33,82
+83,"85/005",NA,"UK","Europe","London",1985,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,2,6,2,2,6,28,83
+84,"85/045",NA,"Unknown",NA,NA,1985,"rectal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,34,84
+85,"81/225",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",20,5,6,3,26,6,34,85
+86,"J981318",NA,"USA","North America",NA,1998,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,2,6,2,2,5,5,86
+87,"RV4688",NA,"Congo [DRC]","Africa",NA,NA,"other","kidney",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,14,8,4,7,10,35,87
+88,"S01",NA,"Italy","Europe","Pisa",NA,"oral swab",NA,"Liver transplant recipient",NA,"female",NA,2,2,"2014-12-19","2014-12-19",4,17,21,19,27,32,22,88
+89,"L217",NA,"UK","Europe","London",NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,7,8,4,7,44,36,89
+90,"YsU123",NA,"Malaysia","Asia","Kuala Lumpur",1995,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",25,7,6,3,6,27,37,90
+91,"RIHO16",NA,"USA","North America","Iowa",1984,"other","sterile site",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+92,"YsM1",NA,"Malaysia","Asia","kuala Lumpur",1995,"other","nail",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,18,24,20,28,20,38,91
+93,"var1.8vag",NA,"USA","North America","Michigan",1990,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,12,92
+94,"W53",NA,"New Zealand","Oceania","Wellington",1992,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",26,3,3,3,3,39,3,93
+95,"CH42",NA,"New Zealand","Oceania","Christchurch",NA,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+96,"CH14",NA,"New Zealand","Oceania","christchurch",1993,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,39,94
+97,"HUN68",NA,"UK","Europe",NA,1987,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+98,"CHB5",NA,"New Zealand","Oceania","Christchurch",1993,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+99,"OD8807",NA,"UK","Europe","Leicester",1988,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,6,2,2,20,5,96
+100,"HUN61",NA,"UK","Europe",NA,1987,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,14,4,4,26,4,97
+101,"HUN93",NA,"UK","Europe",NA,1987,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",27,7,4,3,6,45,15,98
+102,"CLB42",NA,"Colombia","South America","Medellin",1994,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,3,5,21,2,20,5,99
+103,"RIHO9",NA,"USA","North America","Iowa",1986,"other","sterile site",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,29,6,5,100
+104,"HUN92",NA,"UK","Europe","London",1987,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+105,"HUN122",NA,"UK","Europe","London",1987,"other","liver",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",6,3,21,4,30,46,12,101
+106,"FJ9",NA,"Fiji","Oceania","Suva",1995,"other","thoat",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,29,6,5,102
+107,"FJ23",NA,"Fiji","Oceania","Suva",1995,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,6,2,2,6,5,103
+108,"var1.10vag",NA,"USA","North America","Michigan",1991,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,16,104
+109,"HUN91",NA,"UK","Europe",NA,1987,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",28,7,6,4,31,47,40,105
+110,"var1.3vag",NA,"USA","North America","Michigan",1991,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,21,5,106
+111,"HUN123",NA,"UK","Europe","London",1987,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,2,14,4,32,41,4,107
+112,"gaymc-c",NA,"USA","North America","Iowa",1984,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",29,2,6,2,26,35,5,108
+113,"OTG10",NA,"New Zealand","Oceania","Otago",1991,"rectal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,3,48,3,109
+114,"FJ26",NA,"Fiji","Oceania","Suva",1995,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,21,5,110
+115,"FJ12",NA,"Fiji","Oceania","Suva",1995,"other","throat",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,3,39,3,111
+116,"YsU751",NA,"Malaysia","Asia","Kuala Lumpur",1995,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+117,"CLB49",NA,"Colombia","South America","Medellin",1995,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,21,5,112
+118,"FJ27",NA,"Fiji","Oceania","Suva",1995,"other","tubetip",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,19,10,6,7,49,15,113
+120,"WI42",NA,"New Zealand","Oceania","Wellington",1993,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,20,25,3,33,45,6,114
+121,"OD8911",NA,"UK","Europe","Leicester",1989,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,50,5,115
+122,"YsU568",NA,"Malaysia","Asia","Kuala Lumpur",1995,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+123,"HUN96",NA,"UK","Europe","London",1987,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,21,2,21,5,116
+124,"CH3",NA,"New Zealand","Oceania","Christchurch",1993,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,34,20,35,117
+125,"RIHO10",NA,"USA","North America","Iowa",1986,"other","sterile site",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,21,5,2,2,10,5,118
+126,"ATCC10231",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,4,4,4,4,4,119
+127,"AM2003-013",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",31,3,5,22,2,6,5,120
+128,"AM2003-014",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,16,23,13,51,41,121
+129,"AM2003-015",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",32,3,6,1,6,4,4,122
+130,"AM2003-016",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",31,5,5,12,2,20,5,123
+131,"AM2003-017",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+132,"AM2003-018",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+133,"AM2003-020",NA,"UK","Europe","Aberdeen",2003,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+134,"L479",NA,"UK","Europe","London",NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,5,5,9,18,24,5,125
+135,"81/139",NA,"USA","North America","Mayo",1981,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+136,"81/137",NA,"USA","North America","Tufts",1981,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+137,"81/129",NA,"USA","North America","Tufts",1981,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",5,5,5,2,2,6,42,126
+138,"79/011",NA,"UK","Europe","Leicester",1979,"vaginal swab",NA,"healthy volunteer",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,3,6,2,2,20,5,127
+139,"J990683",NA,"Belgium","Europe","Antwerp",1999,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,35,10,8,128
+140,"81/064",NA,"UK","Europe","Leicester",1981,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,2,6,2,2,24,5,129
+141,"81/067",NA,"UK","Europe","Leicester",1981,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,2,4,4,36,26,4,130
+142,"81/118",NA,"UK","Europe","Leicester",1981,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,3,26,4,2,6,16,131
+143,"73/025",NA,"UK","Europe","Leicester",1973,"vaginal swab",NA,"healthy volunteer",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,10,14,6,35,37,40,132
+144,"85/019",NA,"UK","Europe","Leeds",1985,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,3,21,6,6,52,6,133
+145,"L516",NA,"UK","Europe","Bangor",1986,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,22,6,18,24,53,43,134
+146,"AM2002/0087",NA,"UK","Europe","Aberdeen",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,3,2,2,2,6,5,135
+147,"AM2002/0089",NA,"UK","Europe","Aberdeen",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,35,3,8,136
+148,"73/073",NA,"UK","Europe","Leeds",1973,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,7,4,4,4,4,4,119
+149,"81/152",NA,"USA","North America","Baylor",1991,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,6,2,2,54,12,137
+150,"81/174",NA,"USA","North America","Tufts",1981,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,27,24,7,49,15,138
+151,"81/145",NA,"USA","North America","Mayo",1981,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,44,139
+152,"82/002",NA,"Unknown",NA,NA,1982,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,35,45,140
+153,"L121",NA,"UK","Europe","Cardiff",1995,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,14,6,2,37,47,15,141
+154,"L1135",NA,"Saudi Arabia","Asia",NA,1986,"other","ear",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+155,"L1114",NA,"Saudi Arabia","Asia",NA,1986,"other","chest",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,22,142
+156,"L1123",NA,"Saudi Arabia","Asia",NA,1986,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",6,3,28,12,38,46,12,143
+157,"L1086",NA,"Saudi Arabia","Asia",NA,1986,"other","abdomen",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,7,8,4,7,10,8,144
+158,"73/024",NA,"UK","Europe","Leeds",1973,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",6,3,29,2,38,46,12,145
+159,"73/084",NA,"UK","Europe","Leeds",1973,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,13,6,1,7,55,15,146
+160,"81/078",NA,"UK","Europe","Leicester",1981,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,3,6,2,7,56,15,147
+161,"81/068",NA,"UK","Europe","Leicester",1981,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",33,7,6,9,7,57,22,148
+162,"FC5",NA,"USA","North America","El Paso, Texas",1993,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,20,149
+163,"FC11",NA,"USA","North America","Ann Arbor, MI",1990,"oral swab",NA,"vaginitis",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+164,"FC15",NA,"USA","North America","Ann Arbor, MI",1992,"oral swab",NA,"vaginitis",NA,NA,NA,2,2,"2014-12-19","2015-01-08",34,5,6,2,2,24,5,150
+165,"FC25",NA,"USA","North America","Iowa city",1994,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,21,5,151
+166,"FC27",NA,"USA","North America","Iowa city",1990,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,5,24
+167,"FC8",NA,"USA","North America","El Paso",1993,"oral swab",NA,"HIV",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,15,4,25,4,35,4,152
+168,"FC13",NA,"USA","North America","Ann Arbor, MI",1991,"other","seminal",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,23,14,4,4,4,4,153
+169,"FC17",NA,"USA","North America","Ann Arbor, MI",1992,"vaginal swab",NA,"vaginitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,34,41,4,154
+170,"FC22",NA,"USA","North America","Ann Arbor, MI",1992,"vaginal swab",NA,"vaginitis",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+171,"s20122.083",NA,"France","Europe","Lille",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,24,4,4,4,26,4,156
+172,"FC7",NA,"USA","North America","El Paso",1993,"oral swab",NA,"HIV",NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,4,39,32,15,157
+173,"FC19",NA,"USA","North America","Iowa city",1989,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,11,15,6,7,37,12,158
+174,"FC28",NA,"USA","North America","Iowa city",1990,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,10,6,7,15,15,159
+175,"s20148.082",NA,"USA","North America","Dallas",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,25,15,6,34,32,15,160
+176,"s20152.095",NA,"USA","North America","Houston",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,15,6,34,32,15,161
+177,"s20122.073",NA,"Switzerland","Europe","Lausanne",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+178,"s20122.078",NA,"UK","Europe","London",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,7,30,4,7,3,8,162
+179,"s20175.016",NA,"Israel","Asia","Tel Hashomer",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+180,"s20175.038",NA,"Turkey","Asia","Ankara",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",14,3,8,4,7,10,8,163
+181,"s20176.079",NA,"USA","North America","New York",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,58,22,164
+182,"s20122.059",NA,"Spain","Europe","Madrid",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,21,1,6,59,4,165
+183,"s20122.072",NA,"Switzerland","Europe","Lausanne",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,6,30,20,166
+184,"s20152.013",NA,"USA","North America","Iowa City",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,26,6,4,34,60,8,167
+185,"s20152.082",NA,"USA","North America","Charlottesville",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,8,6,4,40,60,8,168
+186,"s20157.096",NA,"Brazil","South America","Porto Algre",2000,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,31,1,6,59,4,169
+187,"AM2003/0041",NA,"UK","Europe","London",2000,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,2,2,2,2,6,5,170
+188,"AM2003/0043",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,3,6,2,2,6,5,171
+189,"AM2003/0045",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,3,4,6,34,20,18,172
+190,"AM2003/0046",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+191,"AM2003/0047",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",37,10,21,1,7,11,15,173
+192,"AM2003/0048",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,4,14,4,4,26,4,97
+193,"AM2003/0053",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,2,4,4,34,4,4,174
+194,"AM2003/0054",NA,"UK","Europe","London",2003,"other","ear",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",38,4,16,7,41,19,46,175
+195,"AM2003/0055",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,7,8,4,42,3,8,176
+196,"AM2003/0056",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,2,5,9,2,21,5,177
+197,"AM2003/0057",NA,"UK","Europe","London",2003,"other","throat",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,2,20,9,43,53,22,178
+198,"AM2003/0058",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+199,"AM2003/0059",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",25,7,6,3,6,45,47,179
+200,"AM2003/0060",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+201,"AM2003/0082",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,10,6,7,55,15,180
+202,"AM2003/0083",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,17,21,19,27,32,22,88
+203,"AM2003/0022",NA,"Portugal","Europe",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,5,5,4,2,6,5,181
+204,"AM2003/0023",NA,"Israel","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,3,39,3,111
+205,"AM2003/0024",NA,"India","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+206,"AM2003/0025",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",33,7,32,26,2,61,48,182
+207,"AM2003/0026",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,17,33,18,2,45,6,183
+208,"AM2003/0028",NA,"India","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+209,"AM2003/0030",NA,"Pakistan","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+210,"AM2003/0031",NA,"Unknown",NA,"Africa",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,5,5,2,2,6,5,184
+211,"AM2003/0032",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",33,7,32,26,2,61,48,182
+212,"AM2003/0033",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,24,5,185
+213,"AM2003/0034",NA,"Israel","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,27,15,6,7,32,15,186
+214,"AM2003/0035",NA,"Pakistan","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,5,34,2,2,6,49,187
+215,"AM2003/0036",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,5,5,2,2,6,49,188
+216,"AM2003/0037",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,44,8,189
+217,"AM2003/0038",NA,"Bangladesh","Asia",NA,2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,27,2,24,21,190
+218,"AM2003/0040",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,24,5,60
+219,"AM2003/0065",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,28,5,6,34,37,15,191
+220,"AM2003/0066",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,27,15,6,34,37,15,192
+221,"AM2003/0068",NA,"UK","Europe","London",2003,"other",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,6,7,13,19,14,193
+222,"AM2003/0069",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",36,4,14,4,4,4,4,194
+223,"AM2003/0071",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,14,35,28,44,30,6,195
+224,"AM2003/0072",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,2,6,4,4,4,4,196
+225,"AM2003/0073",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,5,5,2,2,24,5,197
+226,"AM2003/0074",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,27,15,6,7,37,15,198
+227,"AM2003/0080",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",28,27,21,1,7,55,15,199
+228,"AM2003/0085",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,6,4,4,26,4,200
+229,"AM2003/0086",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,4,2,20,20,201
+230,"AM2003/0088",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,44,8,189
+231,"AM2003/0089",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+232,"AM2003/0093",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,36,4,4,62,20,202
+233,"AM2003/0097",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,6,2,2,24,5,203
+234,"AM2003/0098",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,13,37,4,34,55,15,204
+235,"AM2003/0099",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,14,4,4,54,50,205
+236,"AM2003/0100",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,24,4,206
+237,"AM2003/0101",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,51,207
+238,"AM2003/0102",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,7,6,4,4,26,4,208
+239,"AM2003/0104",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,63,20,209
+240,"AM2003/0106",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,3,8,4,7,13,8,210
+241,"AM2003/0107",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,64,5,211
+242,"AM2003/0109",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,4,2,24,52,212
+243,"AM2003/0115",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,26,5,4,45,20,5,213
+244,"T2",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,3,5,2,46,6,20,214
+245,"T4",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",33,14,38,2,34,47,12,215
+246,"T30",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",36,4,4,4,4,4,4,216
+247,"T36",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",13,13,15,19,2,37,22,217
+248,"T37",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,2,5,9,2,6,53,218
+249,"T45",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",3,2,5,2,2,6,54,219
+250,"T46",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",8,3,2,2,2,27,19,220
+251,"T50",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",21,26,14,18,47,65,55,221
+252,"T65",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",13,7,10,6,7,66,15,222
+253,"T68",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",40,4,21,6,48,67,56,223
+254,"T77",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,3,5,9,2,68,25,224
+255,"AM2003/0182",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,4,4,4,49,4,4,225
+256,"AM2003/0183",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,3,5,12,2,6,12,226
+257,"AM2003/0185",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,5,5,12,2,24,5,227
+258,"AM2003/0186",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,20,6,43,69,22,228
+259,"AM2003/0187",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,29,2,6,5,229
+260,"AM2003/0189",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,39,6,43,70,22,230
+261,"AM2003/0190",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,14,4,4,4,57,231
+262,"AM2003/0191",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,4,4,232
+263,"T120",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",23,4,40,30,50,22,58,233
+264,"T124",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+265,"T121",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+266,"T87",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,3,5,9,2,68,5,234
+267,"T104",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",20,5,38,2,51,71,5,235
+268,"T101",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",13,10,15,6,7,32,12,236
+269,"T100",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,3,5,2,2,20,5,237
+270,"T125",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",13,3,37,2,38,72,12,238
+271,"AM2003/0221",NA,"Unknown",NA,NA,1990,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,50,21,59,239
+272,"T126",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",12,29,8,4,34,10,8,240
+273,"T86",NA,"Canada","North America",NA,NA,"oral swab",NA,NA,NA,NA,"1990s",2,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,5,24
+275,"AM2003/0158",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,44,8,189
+276,"AM2003/0159",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,10,31,2,55,5,241
+277,"AM2003/0160",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,31,2,45,5,242
+278,"AM2003/0161",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",41,5,2,31,2,6,5,243
+279,"AM2003/0164",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,4,4,4,4,26,4,244
+280,"b30514/6",NA,"UK","Europe","Newcastle",2003,"oral swab",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",3,3,5,12,2,6,21,245
+281,"b30364/6",NA,"UK","Europe","Swindon",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,7,16,23,34,19,14,246
+282,"b30972/4",NA,"UK","Europe","sheffield",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,3,8,4,7,10,60,247
+283,"b30164/5",NA,"UK","Europe","Poole",2003,"oral swab",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,4,18,248
+284,"b30738/4",NA,"UK","Europe","kent",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,24,8,4,249
+285,"b30071/4",NA,"UK","Europe","Cambridge",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",21,8,14,32,47,65,61,250
+286,"b30625/6",NA,"UK","Europe","Stevenage",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,5,5,12,2,21,62,251
+287,"b31331/6",NA,"UK","Europe","Cambridge",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",3,3,37,2,38,73,12,252
+291,"SC5314",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,9,2,24,5,52
+300,"TW12-79",NA,"USA","North America",NA,1985,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,9,2,6,5,254
+308,"L607",NA,"UK","Europe","London",1985,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,7,8,4,7,42,32,255
+312,"L485",NA,"UK","Europe","London",1985,"faeces",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,7,6,4,7,42,32,256
+313,"L527",NA,"UK","Europe","London",1985,"faeces",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",42,10,15,6,7,75,15,257
+319,"IHEM16346",NA,"Rwanda","Africa",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",21,30,41,2,4,76,27,258
+326,"S02",NA,"Italy","Europe","Pisa",2000,"oral swab",NA,"liver Tx",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,17,21,19,53,32,22,264
+329,"S05",NA,"Italy","Europe","Pisa",2000,"sputum",NA,"liver Tx",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,17,21,19,27,32,22,88
+332,"S08",NA,"Italy","Europe","Pisa",2000,"sputum",NA,"liver Tx",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,17,21,19,2,32,22,265
+334,"L261B",NA,"UK","Europe","London",NA,"oral swab",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",14,7,8,4,7,3,36,266
+336,"L283",NA,"UK","Europe","London",NA,"oral swab",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",14,7,30,4,34,44,36,267
+340,"RV2LK",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",43,14,8,4,7,10,35,268
+343,"L580",NA,"UK","Europe","London",NA,"faeces",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",3,5,5,9,2,24,25,269
+344,"L562",NA,"UK","Europe","London",NA,"sputum",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",3,5,5,9,2,24,5,270
+346,"L367",NA,"UK","Europe","London",NA,"oral swab",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",44,14,30,4,7,3,22,271
+347,"L344",NA,"UK","Europe","London",NA,"oral swab",NA,"leukaemia",NA,"male",NA,2,2,"2014-12-19","2014-12-19",8,14,30,4,7,3,8,272
+350,"AM2003/0049",NA,"France","Europe",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,5,5,9,2,6,5,79
+351,"AM2003/0050",NA,"Sri Lanka","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",8,7,8,4,42,3,8,176
+352,"AM2003/0061",NA,"UK","Europe","London",NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",35,4,42,4,4,41,26,273
+353,"AM2003/0096",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,78,64,274
+355,"AM2003/0112",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,2,4,4,4,4,4,275
+356,"AM2003/0113",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",29,26,6,9,4,79,4,276
+358,"D9-330",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,5,277
+359,"D12-330",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,12,2,6,5,278
+362,"D12-260",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,64,5,279
+363,"AM2003/0166",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,7,21,2,49,80,10,280
+364,"b30116/4",NA,"UK","Europe","Sunderland",NA,"oral swab",NA,NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",36,7,4,4,4,26,4,281
+365,"b31140/6",NA,"UK","Europe","Cambridge",NA,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",33,7,38,2,31,81,15,282
+366,"b31040/6",NA,"UK","Europe","Ashford",NA,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",8,5,5,2,2,6,65,283
+367,"b31255/5",NA,"UK","Europe","Derriford",NA,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+368,"b31006/5",NA,"UK","Europe","Nottingham",NA,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,3,5,2,2,6,5,66
+369,"b31005/5",NA,"UK","Europe","Nottingham",NA,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",45,32,21,2,54,53,66,284
+370,"3153ALndn1",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,5,9,2,6,5,285
+371,"AM2003/0084",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,7,6,2,7,20,29,286
+372,"AM2003/0169",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,67,287
+373,"AM2003/0181",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,2,4,4,4,4,4,275
+375,"IHEM20404",NA,"Brazil","South America",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,43,7,55,51,14,288
+376,"IHEM20439",NA,"South Korea","Asia",NA,NA,"other","tongue",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,32,44,34,56,55,12,289
+377,"IHEM20462",NA,"Belgium","Europe","Antwerp",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",21,3,14,18,47,65,61,290
+378,"IHEM20464",NA,"Belgium","Europe","Antwerp",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+379,"IHEM20467",NA,"Belgium","Europe","Antwerp",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+380,"IHEM20469",NA,"Belgium","Europe","Antwerp",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,82,5,291
+381,"IHEM16974",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,8,167
+382,"IHEM17135",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,17,6,19,27,83,22,292
+383,"b30528/5",NA,"UK","Europe","Sunderland",NA,"oral swab",NA,NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,12,21,4,2,24,68,293
+384,"IHEM20517",NA,"Belgium","Europe","Antwerp",NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",4,7,14,4,34,4,4,294
+385,"IHEM16104",NA,"Belgium","Europe","Liege",NA,"animal","pigeon throat",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,5,3,57,7,6,295
+386,"IHEM16473",NA,"Belgium","Europe","Schoten",NA,"animal","parrot stomatitis",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",46,14,6,35,58,84,14,296
+387,"IHEM16731",NA,"Rwanda","Africa","Kigali",NA,"CSF",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,8,167
+388,"IHEM16733",NA,"Rwanda","Africa",NA,NA,"blood",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,14,21,6,7,85,13,297
+389,"IHEM17983",NA,"Peru","South America","Lima",NA,"CSF",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",24,7,6,3,6,27,37,298
+390,"IHEM20415",NA,"Germany","Europe",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,17,21,19,27,83,22,299
+391,"IHEM20446",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,3,5,2,2,20,5,300
+392,"IHEM20488",NA,"UK","Europe","London",NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,26,14,9,47,86,61,301
+393,"IHEM20505",NA,"UK","Europe","Manchester",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,26,14,18,47,86,61,302
+394,"IHEM20521",NA,"Belgium","Europe",NA,NA,"other","nail",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,5,2,2,20,5,303
+395,"IHEM16348",NA,"Congo [DRC]","Africa","Kisangi",NA,"animal","monkey throat",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,2,2,2,6,5,59
+396,"IHEM16349",NA,"Belgium","Europe","gent",NA,"animal","pig stomach",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,16,7,13,19,14,304
+397,"IHEM16588",NA,"Belgium","Europe","Antwerp",NA,"animal","gorilla faeces",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,3,111
+398,"IHEM16604",NA,"Belgium","Europe","Schoten",NA,"animal","crow mouth",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,16,7,13,19,14,304
+399,"IHEM16614",NA,"Rwanda","Africa","Kigali",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,24,4,206
+400,"IHEM16693",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+401,"IHEM16972",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+402,"IHEM16986",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+403,"IHEM17085",NA,"Rwanda","Africa","Kigali",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+404,"IHEM17128",NA,"Rwanda","Africa","Kigali",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",47,14,21,2,59,80,69,305
+405,"IHEM17156",NA,"Belgium","Europe","liege",NA,"animal","penis",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",15,7,16,7,13,19,14,306
+406,"IHEM17157",NA,"Belgium","Europe","Liege",NA,"animal","guinea pig nose",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,16,7,13,19,14,304
+407,"IHEM17868",NA,"Peru","South America","Lima",NA,"other","oesophagus",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,3,111
+408,"IHEM20407",NA,"The Netherlands","Europe",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,2,21,19,27,83,22,307
+409,"IHEM20486",NA,"UK","Europe","London",NA,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2014-12-19",4,26,14,9,47,65,61,308
+410,"IHEM20573",NA,"Switzerland","Europe",NA,1995,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,45,6,7,32,15,309
+411,"IHEM20576",NA,"Switzerland","Europe",NA,1995,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,2,9,2,24,5,310
+412,"T115",NA,"Canada","North America",NA,1990,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,21,5,151
+413,"AM2003/0029",NA,"UK","Europe","London",2003,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,7,8,4,7,3,8,311
+414,"AM2003/0110",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,33,4,4,4,26,4,312
+415,"AM2003/0168",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,5,5,2,2,21,5,313
+416,"AM2003/0172",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,21,5,314
+417,"AM2003/0174",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,26,4,315
+418,"AM2003/0177",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,87,5,316
+419,"AM2003/0180",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,20,5,317
+420,"AM2004/0016",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,6,4,4,4,4,318
+421,"AM2004/0017",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+422,"AM2004/0018",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,3,8,4,2,10,8,319
+423,"AM2004/0019",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,6,2,2,6,5,103
+424,"AM2004/0021",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,26,4,320
+425,"AM2004/0022",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,47,65,61,321
+426,"AM2004/0023",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,20,5,322
+427,"AM2004/0024",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,8,95
+428,"AM2004/0025",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,47,65,61,321
+429,"AM2004/0026",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,20,323
+430,"AM2004/0027",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,47,88,61,324
+431,"AM2004/0028",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,34,35,4,325
+432,"AM2004/0029",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,14,4,4,4,4,326
+433,"AM2004/0030",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,49,4,22,327
+434,"AM2004/0031",NA,"UK","Europe","Aberdeen",2004,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,49,26,4,328
+435,"IHEM20470",NA,"Belgium","Europe","Antwerp",1996,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+436,"AM2003/0154",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,5,4,4,4,26,4,329
+437,"AM2003/0163",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,6,20,330
+438,"AM2003/0165",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,7,89,15,331
+439,"AM2003/0167",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,4,20,2,46,27,21,332
+440,"b30132/5",NA,"UK","Europe","Bristol",2003,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",48,34,15,5,60,20,70,333
+441,"b31111/6",NA,"UK","Europe","Lincoln",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",37,3,3,1,7,90,15,334
+442,"b30838/6",NA,"Ireland","Europe","Dublin",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,35,6,2,2,20,5,335
+443,"b30644/6",NA,"UK","Europe","Isle of Wight",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",29,3,4,2,34,45,12,336
+444,"b30623/6",NA,"UK","Europe","High Wycombe",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",30,5,5,3,3,91,3,337
+445,"b30378/6",NA,"UK","Europe","Watford",2003,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,3,4,3,26,92,3,338
+446,"b30249/6",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,35,6,4,61,15,71,339
+447,"b30037/6",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,5,5,34,62,93,22,340
+448,"b31252/5",NA,"UK","Europe","Gwent",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,4,72,341
+449,"b31134/5",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,2,2,4,2,94,65,342
+450,"b31067/5",NA,"Ireland","Europe","Dublin",2003,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,5,5,4,2,6,19,343
+451,"b30998/5",NA,"Ireland","Europe","Dublin",2003,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,7,37,15,344
+452,"IHEM16603",NA,"Belgium","Europe","Schoten",NA,"other","trachea",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,36,3,3,24,30,73,345
+453,"IHEM20532",NA,"Belgium","Europe","Sint Niklaas",1994,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,14,21,4,63,30,20,346
+454,"AM2004/0006",NA,"France","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",49,3,6,35,64,20,3,347
+455,"AM2004/0007",NA,"France","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",49,12,6,35,51,20,74,348
+456,"AM2004/0008",NA,"France","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",49,12,6,35,64,20,75,349
+457,"IHEM16962",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",50,12,21,6,3,95,76,350
+458,"IHEM16982",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",51,37,4,4,4,96,7,351
+459,"IHEM20403",NA,"France","Europe",NA,NA,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,8,21,19,27,97,22,352
+460,"IHEM20414",NA,"Germany","Europe",NA,NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",52,3,2,9,2,6,12,353
+461,"IHEM20417",NA,"Germany","Europe",NA,NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,5,2,9,2,5,12,354
+462,"IHEM16945",NA,"Rwanda","Africa","Kigali",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",51,37,4,4,4,26,77,355
+463,"IHEM16977",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",53,32,6,7,65,32,78,356
+464,"IHEM17984",NA,"Belgium","Europe","Gent",NA,"animal","dolphin intestines",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",54,3,10,36,66,98,79,357
+465,"IHEM20416",NA,"Germany","Europe",NA,NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,3,2,9,2,21,12,358
+466,"IHEM20440",NA,"Belgium","Europe","Verviers",NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,46,3,67,99,80,359
+467,"AM2004/0003",NA,"France","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,26,6,4,34,60,8,167
+468,"AM2004/0004",NA,"France","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",49,3,6,35,64,20,3,347
+469,"AM2004/0005",NA,"UK","Europe",NA,2004,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,3,35,360
+470,"IHEM20429",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,5,5,2,2,21,49,361
+471,"IHEM20574",NA,"Switzerland","Europe",NA,NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,14,16,9,68,20,81,362
+472,"IHEM20382",NA,"France","Europe",NA,NA,"animal","dolphin nostrils",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",8,3,8,4,7,3,8,363
+473,"IHEM16601",NA,"Belgium","Europe","Antwerp",NA,NA,"dolphin nostrils",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,3,21,6,6,52,6,133
+474,"IHEM17110",NA,"Rwanda","Africa","Kigali",NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+475,"IHEM16949",NA,"Rwanda","Africa","Kigali",NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",36,4,4,4,4,26,4,244
+476,"b31317/6",NA,"UK","Europe","Cambridge",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,19,364
+477,"b30956/5",NA,"UK","Europe","Bristol",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",55,14,4,3,6,45,15,365
+478,"b30955/5",NA,"UK","Europe","Bristol",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,4,82,366
+479,"b30866/5",NA,"UK","Europe","Swindon",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,5,3,57,100,6,367
+480,"b30708/5",NA,"UK","Europe","Cambridge",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,27,15,6,7,32,15,186
+481,"IHEM20535",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,5,9,2,21,5,368
+482,"IHEM20523",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,8,10,19,27,83,22,369
+483,"IHEM20516",NA,"The Netherlands","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",56,12,21,1,6,30,4,370
+484,"IHEM20493",NA,"UK","Europe","Leicester",1990,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",5,5,5,2,2,101,83,371
+485,"IHEM20491",NA,"UK","Europe","Leicester",1989,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",3,5,5,2,69,24,5,372
+486,"IHEM20397",NA,"UK","Europe","London",NA,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,6,34,32,15,373
+487,"J930665",NA,"Canada","North America","Quebec",1993,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,47,102,12,374
+488,"J940855",NA,"Germany","Europe",NA,1994,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",31,5,5,2,2,21,5,375
+489,"J941379",NA,"UK","Europe","London",1994,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,20,376
+490,"J941383",NA,"UK","Europe","London",1994,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,26,14,9,47,102,84,377
+491,"J932571",NA,"UK","Europe","London",1993,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,8,14,9,47,102,84,378
+492,"J932575",NA,"UK","Europe","London",1993,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",8,3,2,9,2,6,12,379
+493,"J942148",NA,"Germany","Europe",NA,1994,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,3,2,9,2,25,12,380
+494,"J942149",NA,"Germany","Europe",NA,1994,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,6,2,2,20,12,381
+495,"J950660",NA,"Germany","Europe",NA,1995,"oral swab",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,20,2,2,20,12,382
+496,"MYA-2669",NA,"Germany","Europe",NA,NA,"other","penis",NA,NA,"male",NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+497,"WO1",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",57,4,20,2,70,103,12,383
+498,"AM2003/0175",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",37,2,21,1,7,11,29,384
+499,"AM2003/0176",NA,"UK","Europe","London",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,9,2,5,5,385
+500,"b30033/6",NA,"UK","Europe","Middlesex",2003,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,24,20,386
+501,"IHEM16723",NA,"Rwanda","Africa","Kigali",NA,"bronchoalveolar lavage",NA,"AIDS",NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,85,387
+502,"IHEM20487",NA,"UK","Europe","London",1993,"oral swab",NA,"AIDS",NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,26,14,9,47,65,84,388
+503,"WC01-202761",NA,"Australia","Oceania",NA,2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,14,4,2,37,15,389
+504,"WC01-202762",NA,"Australia","Oceania",NA,2001,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,14,6,2,37,15,390
+505,"PCPat33a",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",13,14,44,18,71,104,6,391
+506,"PCPat78e",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",8,3,8,4,7,10,8,392
+507,"PCPat83a",NA,"UK","Europe","Leeds",2002,"sputum",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",5,38,37,4,34,105,15,393
+508,"PCPat96b",NA,"UK","Europe","Leeds",2002,"skin","groin",NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",13,38,15,6,7,37,40,394
+509,"PCPat133h",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,2,4,4,4,26,4,395
+510,"PCPat03",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",2,2,5,2,2,6,5,277
+511,"PCPat67b",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",2,3,5,2,2,30,20,396
+512,"PCPat112a",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",2,5,5,4,2,24,68,397
+513,"PCPat96h",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",13,39,15,6,7,37,40,398
+514,"PCStaff14",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",8,3,4,4,50,3,8,399
+515,"PCPat45",NA,"UK","Europe","Leeds",2002,"skin","groin",NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",8,7,8,4,7,13,8,400
+516,"PCPat48",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",8,14,8,4,50,44,22,401
+517,"PCPat47",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,7,4,4,4,4,4,402
+518,"PCPat125",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",4,3,6,9,64,53,15,403
+519,"PCStaff15",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",2,5,6,2,2,6,49,404
+520,"PCPat69",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,22,405
+521,"PCPat01",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,4,4,4,49,26,4,406
+522,"PCPat106a",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",8,14,8,4,2,10,8,407
+524,"PCPat82",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",2,5,5,2,2,20,5,408
+525,"PCPat94",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",4,4,4,4,4,26,4,320
+527,"PC23",NA,"UK","Europe","Leeds",2002,NA,NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",21,26,14,18,72,102,84,409
+528,"PCPat67a",NA,"UK","Europe","Leeds",2002,"faeces",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,2,4,37,4,4,4,410
+529,"PCPat71",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",35,15,4,4,4,4,4,411
+530,"PCPat123",NA,"UK","Europe","Leeds",2002,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-08",36,4,4,4,73,4,4,412
+531,"WC02-201987",NA,"Australia","Oceania",NA,2002,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,25,5,413
+534,"WC02-202294",NA,"Australia","Oceania",NA,2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,74,37,15,414
+535,"WC02-202295",NA,"Australia","Oceania",NA,2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,2,49,15,415
+536,"WC02-202296",NA,"Australia","Oceania",NA,2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,2,37,15,416
+537,"WC02-202861",NA,"Australia","Oceania",NA,2002,"other","ileal conduit",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,5,417
+539,"WC02-202964",NA,"Australia","Oceania",NA,2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,75,30,4,418
+540,"WC02-202965",NA,"Australia","Oceania",NA,2002,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",26,12,21,1,6,30,4,419
+541,"WC03-200970b",NA,"Australia","Oceania",NA,2003,"other","peripheral tip",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,35,4,7,3,86,420
+542,"WC03-200970d",NA,"Australia","Oceania",NA,2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,34,3,8,421
+543,"WC03-200970e",NA,"Australia","Oceania",NA,2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,74,3,8,422
+544,"WC03-200970h",NA,"Australia","Oceania",NA,2003,"other","thigh",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",14,14,8,4,7,3,8,423
+545,"WC03-200975",NA,"Australia","Oceania",NA,2003,"other","peripheral tip",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,35,6,74,76,22,424
+547,"WC03-202178",NA,"Australia","Oceania",NA,2003,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,2,6,4,4,26,87,425
+550,"WC03-203422",NA,"Australia","Oceania",NA,2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+551,"WC03-203424",NA,"Australia","Oceania",NA,2003,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,106,5,426
+552,"C19",NA,"UK","Europe","Aberdeen",1993,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,76,65,84,427
+558,"WC02-202293",NA,"Australia","Oceania",NA,2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,6,4,4,4,428
+559,"G24939",NA,"UK","Europe","Redhill",2005,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,77,37,15,429
+560,"G25049",NA,"UK","Europe","Redhill",2005,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",58,3,8,4,7,13,8,430
+561,"SCS131020W",NA,"UK","Europe","Dundee",2005,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,24,5,431
+562,"SCS1723047N",NA,"UK","Europe","Victoria",2005,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",28,14,38,2,78,47,15,432
+563,"SCS47669",NA,"UK","Europe","Crosshouse",2005,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,7,35,19,74,76,15,433
+564,"HK04M215570",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,14,21,4,79,107,88,434
+565,"HK04M176834",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,9,2,6,5,435
+566,"HK04M19965",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,3,21,2,80,108,15,436
+567,"HK04M11709",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,32,4,28,34,27,89,437
+568,"HK04M2714",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,3,21,4,27,109,13,438
+569,"HK04M245",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,21,4,27,109,13,439
+570,"HK04M99978",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,7,47,2,81,108,90,440
+571,"HK04M81195",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,26,6,4,34,60,91,441
+572,"HK04M56179",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,3,21,2,80,108,15,436
+573,"HK04M152008",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",9,9,4,14,53,37,18,442
+574,"HK04M142575",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,5,21,2,80,108,15,443
+575,"HK04M121276",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,5,444
+576,"HK04M105226",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,26,6,4,34,60,8,167
+577,"HK04M102095",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,14,12,39,12,110,92,445
+578,"HK04M183244",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",1,3,4,3,7,73,93,446
+579,"HK04M165507",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,26,48,18,31,111,15,447
+580,"HK04M144265",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,14,6,4,30,112,8,448
+581,"HK04M194343",NA,"China","Asia","Hong Kong",2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,5,21,2,80,108,15,443
+582,"HK03M212903",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",60,13,21,1,82,11,15,449
+583,"HK03M43467",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,14,4,14,6,45,15,450
+584,"HK03M34560",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,21,4,27,109,13,439
+585,"HK03M147176",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",60,10,21,1,2,11,15,451
+586,"HK03M136121",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+587,"HK03M120736",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",53,3,10,36,83,113,10,452
+588,"HK03M5764",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",61,5,21,4,80,108,15,453
+589,"HK03M1517",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,40,2,6,5,454
+590,"HK03M117944",NA,"China","Asia","Hong Kong",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",60,7,21,1,2,114,58,455
+591,"HK02M80125",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,3,3,3,84,39,94,456
+592,"HK02M230334",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,5,21,2,80,108,15,443
+593,"HK02M62380",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",53,5,21,2,80,108,15,457
+594,"HK02M49310",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",6,3,10,4,27,109,13,458
+595,"HK02M39370",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,17,21,19,27,13,22,459
+596,"HK02M36442",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,49,2,76,20,47,460
+597,"HK02M162853",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",60,10,21,1,7,11,15,461
+598,"HK02M66789",NA,"China","Asia","Hong Kong",2002,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",60,10,21,1,7,11,15,461
+599,"HK01M98356",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,8,6,4,34,60,8,462
+600,"HK01M100353",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,32,21,19,7,55,5,463
+601,"HK01M154213",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,21,4,27,45,13,464
+602,"HK01M155891",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",55,14,4,3,6,45,15,365
+603,"HK01M162209",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,5,444
+604,"HK01M195131",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",59,7,21,2,81,108,90,466
+605,"HK01M194619",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,3,3,3,3,115,95,467
+606,"HK01M223385",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",64,3,6,4,34,13,8,468
+607,"HK01M163123",NA,"China","Asia","Hong Kong",2001,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,46,6,5,469
+608,"B2630V",NA,"Belgium","Europe",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",65,40,6,41,64,53,15,470
+609,"81/058",NA,"UK","Europe",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",2,5,5,2,2,27,5,471
+610,"F137",NA,"Spain","Europe","Madrid",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",5,23,5,2,2,78,5,472
+611,"F136",NA,"Spain","Europe","Madrid",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,23,5,9,2,5,5,473
+612,"83/005",NA,"UK","Europe",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",4,22,6,18,64,32,96,474
+613,"88/001c",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,6,2,6,24,5,475
+614,"81/059",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",13,10,15,4,7,37,15,476
+615,"81/148",NA,"USA","North America","Tufts",NA,"other","chest fluid",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,5,5,9,2,24,5,477
+616,"81/092",NA,"UK","Europe","Leicester",1980,"other","penis",NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,20,5,408
+617,"81/005",NA,"Rwanda","Africa",NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-07",58,14,8,4,7,10,35,478
+619,"78/022",NA,"UK","Europe","Leicester",1978,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,30,4,7,44,35,479
+620,"81/066",NA,"UK","Europe","Leicester",1981,"oral swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",35,2,4,4,4,26,4,395
+622,"90/142",NA,"Spain","Europe","Madrid",1990,"other","abscess","heroin addict, HIV+, culture of abscess,",NA,"male",NA,2,2,"2014-12-19","2015-01-08",30,41,21,1,6,30,4,480
+623,"L989",NA,"Spain","Europe","Valencia",NA,"skin",NA,"drug addict",NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,14,8,4,2,3,8,481
+624,"A634214",NA,"UK","Europe","Aberdeen",NA,"catheter","CVP line",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,4,4,232
+627,"A873646",NA,"UK","Europe","Aberdeen",NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,37,2,38,116,12,482
+628,"81/120",NA,"USA","North America","Tufts",1981,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,5,24
+629,"73/027",NA,"UK","Europe","Leeds",1973,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",6,3,10,2,38,46,12,483
+630,"81/177",NA,"USA","North America","Baylor",1981,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,9,2,24,5,477
+631,"81/146",NA,"USA","North America","Baylor",1981,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,9,2,6,20,484
+632,"81/143",NA,"USA","North America","Baylor",1981,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,20,485
+633,"b30436/6",NA,"UK","Europe","Kettering",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,4,6,8,4,486
+634,"J932570A",NA,"UK","Europe","London",1993,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,26,14,9,52,102,84,487
+635,"J990103",NA,"Belgium","Europe","Brasschat",1999,"other","cervix",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,11,15,6,7,37,15,488
+636,"GUI110",NA,"Brazil","South America",NA,1954,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,26,5,12,2,6,97,489
+637,"AM2005/0027",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,2,2,85,24,83,490
+638,"AM2005/0029",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,83,491
+639,"AM2005/0021",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",6,3,37,2,38,32,12,492
+640,"AM2005/0028",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,117,98,493
+641,"AM2005/0015",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,7,37,71,494
+642,"AM2005/0030",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,26,4,315
+643,"AM2005/0026",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,3,39,99,495
+644,"AM2005/0022",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,14,21,2,38,46,12,496
+645,"AM2005/0025",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,83,491
+646,"AM2005/0020",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,21,5,151
+647,"AM2005/0017",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,4,4,4,26,4,497
+648,"AM2005/0031",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,14,50,6,4,118,22,498
+649,"AM2005/0014",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,14,50,6,4,118,15,499
+650,"AM2005/0019",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,51,9,2,6,5,500
+651,"AM2005/0011",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,2,4,4,4,26,50,501
+652,"AM2005/0016",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,5,24
+653,"AM2005/0013",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,5,24
+654,"AM2005/0010",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,4,4,4
+655,"AM2005/0018",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,119,5,502
+656,"AM2005/0012",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,14,50,33,4,118,12,503
+657,"G25119",NA,"UK","Europe","Redhill",2005,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",58,14,8,4,7,10,8,504
+658,"GUI2883",NA,"Brazil","South America","Sal Paulo",1986,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,7,14,6,7,32,15,505
+659,"GUI3620",NA,"Brazil","South America","Recife",1994,"bronchoalveolar lavage",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",47,7,35,28,44,20,12,506
+660,"GUI3629",NA,"Brazil","South America","Recife",1994,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",47,7,35,28,44,59,6,507
+661,"GUI4124",NA,"Brazil","South America","Recife",NA,"oropharynx",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",47,7,35,28,44,30,6,508
+662,"GUI4125",NA,"Brazil","South America","Recife",1999,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",47,7,35,28,18,20,6,509
+663,"GUI4260",NA,"Brazil","South America","Recife",2000,"oropharynx",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+664,"GUI4388",NA,"Brazil","South America","Recife",2001,"oropharynx",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,3,39,12,510
+665,"GUI4609",NA,"Brazil","South America","Recife",2003,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",47,14,35,28,86,120,6,511
+667,"F150",NA,"Spain","Europe","Madrid",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,75,30,4,418
+668,"F123",NA,"UK","Europe","Cardiff",1985,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,14,38,4,87,122,15,513
+669,"F135",NA,"Spain","Europe","Madrid",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,6,30,4,514
+670,"78/010",NA,"UK","Europe","Leicester",1978,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,6,2,2,20,5,515
+671,"81/179",NA,"USA","North America","Washington",1981,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,10,15,6,2,32,8,516
+672,"81/196",NA,"USA","North America","Massachussetts",1981,"other","throat",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,43,14,4,34,55,15,517
+673,"J950661",NA,"Germany","Europe",NA,1995,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",66,14,6,35,64,20,12,518
+674,"SCS51126",NA,"UK","Europe","Glasgow",2005,"blood",NA,"renal Tx",NA,"female",NA,2,2,"2014-12-19","2015-01-08",36,4,4,4,4,26,4,244
+675,"SCS50393",NA,"UK","Europe","Glasgow",2005,"blood",NA,"gastric CA",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,6,2,2,6,5,519
+676,"SCS140136P",NA,"UK","Europe","Dundee",2005,"blood",NA,"CA head of pancreas",NA,"female",NA,2,2,"2014-12-19","2015-01-08",35,7,6,4,34,26,20,520
+678,"SCSBB411487",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"tuberculosis",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,26,4,315
+679,"SCS1723982P",NA,"UK","Europe","Kirkcaldy",2005,"blood",NA,"Renal Tx",NA,"female",NA,2,2,"2014-12-19","2015-01-08",47,14,35,28,44,30,6,521
+680,"SCSFI507304",NA,"UK","Europe",NA,2005,"blood",NA,"LRTI",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,21,100,522
+681,"SCS66179",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Perf duod ulcer",NA,"female",NA,2,2,"2014-12-19","2015-01-08",35,2,4,4,4,4,4,275
+682,"SCS66209G",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"?Biliary tract sepsis",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,6,5,277
+683,"SCS141560",NA,"UK","Europe","Dundee",2005,"blood",NA,"CABG",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,10,15,6,7,37,15,523
+684,"SCS66210C",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"bilateral pneumonia",NA,"male",NA,2,2,"2014-12-19","2015-01-08",6,3,3,38,26,39,95,524
+685,"SCSFJ500144",NA,"UK","Europe",NA,2005,"blood",NA,"?Hickman infection",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,14,21,18,34,32,6,525
+686,"SCS05.23515",NA,"UK","Europe",NA,2005,"blood",NA,"ICU cerebral palsy, feeding difficulties",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,2,4,4,4,26,4,526
+687,"SCSBB413472",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"Ischaemic bowel resection",NA,"male",NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,6,30,4,514
+688,"SCS154044",NA,"UK","Europe","Dundee",2005,"blood",NA,"Emergency aneurysm repair",NA,"male",NA,2,2,"2014-12-19","2015-01-08",30,3,43,3,3,39,95,527
+689,"SCSXM66469Y",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"MRSA infection",NA,"male",NA,2,2,"2014-12-19","2015-01-08",8,7,8,4,7,10,101,528
+690,"SCSXM66617S",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Bilateral pneumonia/pancreatitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,3,3,3,26,39,95,529
+691,"SCSXM67023C",NA,"UK","Europe","Glasgow",2005,"blood",NA,"MI/LUT",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+692,"BG1267",NA,"Colombia","South America","Medellin",2003,"blood",NA,"Neonate with sepsis, 2003",NA,NA,NA,2,2,"2014-12-19","2015-01-08",24,7,6,3,6,27,37,298
+693,"BG3179",NA,"UK","Europe","Bristol",NA,NA,NA,"1973 see card 851 in refs",NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,4,4,4,4,4,119
+694,"BG9958",NA,"UK","Europe","London",NA,"other","abscess drain","Abscess drain UCH 1986",NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,8,14,18,47,47,84,530
+695,"BG14985",NA,"UK","Europe",NA,NA,"vaginal swab",NA,"Vaginal swab",NA,"female",NA,2,2,"2014-12-19","2015-01-07",2,5,5,2,2,6,5,69
+696,"BG28370",NA,"UK","Europe",NA,NA,"catheter",NA,"Vasc catheter tip UCH 1970s",NA,NA,NA,2,2,"2014-12-19","2015-01-07",4,44,4,4,4,24,52,531
+697,"SCS60678",NA,"UK","Europe","Crosshouse",2005,"blood",NA,"Spinal abscess ESBL bacteraemia",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,26,50,532
+698,"SCS1724278X",NA,"UK","Europe","Victoria",2005,"blood",NA,"Central line sepsis (IVDU)",NA,"male",NA,2,2,"2014-12-19","2015-01-08",67,10,21,1,7,11,15,533
+699,"SCS5059082",NA,"UK","Europe","Glasgow",2005,"blood",NA,"CABG",NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,7,52,6,74,76,40,534
+701,"SCSXM67741",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Aortic repair c duod. fistula",NA,"male",NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,72,102,84,409
+702,"SCSXM67701",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Meningococcal infection",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,5,417
+703,"SCSXM67995",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"RTA abdo drain",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,88,26,4,535
+704,"K4458",NA,"Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,2,2,2,24,5,536
+705,"F63",NA,"Israel","Asia","Tel Aviv",1985,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",14,14,8,4,7,10,102,537
+706,"SCS66797Y",NA,"UK","Europe","Edinburgh",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,4,538
+708,"AM2001/0019",NA,"UK","Europe","Aberdeen",2001,"other","sternal abscess",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,14,21,18,34,32,6,525
+710,"85/006",NA,"UK","Europe","London",1985,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,2,6,2,2,24,5,539
+711,"F124",NA,"UK","Europe","Cardiff",1985,"CSF",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,7,38,2,87,122,15,540
+712,"F172",NA,"Spain","Europe","Madrid",1985,"skin",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,3,28,1,6,30,4,541
+713,"F173",NA,"Spain","Europe","Madrid",1985,"other","nail",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,4,538
+714,"F220",NA,"UK","Europe","London",1985,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",11,5,20,9,43,53,15,542
+715,"F262",NA,"UK","Europe","London",1985,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,20,9,43,53,15,543
+717,"F513",NA,"UK","Europe","Bangor",1986,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,22,6,18,64,53,12,544
+718,"90/141",NA,"Spain","Europe","Madrid",1990,"other","folliculitis",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",62,41,21,1,6,30,4,545
+719,"AM2005/0036",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+720,"AM2005/0044",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,2,4,4,4,4,87,546
+721,"AM2005/0040",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,6,2,2,6,5,103
+722,"AM2005/0038",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,26,4,315
+723,"AM2005/0041",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,24,30,98,547
+724,"AM2005/0039",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+725,"AM2005/0042",NA,"UK","Europe","Aberdeen",2005,"oral swab",NA,"healthy volunteer",NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+726,"SCS053169",NA,"UK","Europe","Crosshouse",2005,"blood",NA,"acute renal failure",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,6,5,66
+728,"SCSB37748",NA,"UK","Europe","Royal Alexandra",2005,"blood",NA,"Post laparotomy",NA,"female",NA,2,2,"2014-12-19","2015-01-08",68,10,21,1,7,11,22,548
+729,"SCSM596559",NA,"UK","Europe","Leven",2005,"blood",NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",35,7,14,4,4,4,103,549
+730,"SCS68225",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Pneumonia",NA,"male",NA,2,2,"2014-12-19","2015-01-08",69,7,4,4,4,26,4,550
+731,"SCSM0455851",NA,"UK","Europe",NA,2005,"blood",NA,"hemiomyoma stomach excision",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,14,21,44,34,32,6,551
+732,"SCS68195",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Renal dialysis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",70,3,8,4,7,44,8,552
+733,"SCS68402",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Bleed from DU",NA,"female",NA,2,2,"2014-12-19","2015-01-08",47,7,18,45,44,30,6,553
+734,"SCS67774S",NA,"UK","Europe","Edinburgh",2005,"sputum",NA,"same patient as SCSXM67995",NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,88,26,4,535
+735,"SCSBB423294",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"CAPD peritonitis (sample blood + mix??)",NA,"female",NA,2,2,"2014-12-19","2015-01-08",3,2,5,2,2,6,5,554
+736,"SCS189530G",NA,"UK","Europe","Dundee",2005,"blood",NA,"AVR poor medical state",NA,"female",NA,2,2,"2014-12-19","2015-01-08",70,14,8,4,7,44,8,555
+737,"SCS5081060",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Abdominal surgery",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+738,"SCSBB421981",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"Sarcoma",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+739,"SCSMG63004",NA,"UK","Europe","Inverclyde",2005,"blood",NA,"Liver abscess recently drained",NA,"male",NA,2,2,"2014-12-19","2015-01-08",33,14,38,2,78,122,12,556
+740,"SCS102490",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Alcoholic liver dis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",37,10,21,1,7,123,40,557
+741,"SCS68858",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"DVT/cellulitis/sepsis",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+742,"SCS102595",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Neutropenia secondary to breast cancer",NA,"female",NA,2,2,"2014-12-19","2015-01-08",13,45,15,6,7,37,15,558
+743,"SCS179339",NA,"UK","Europe","Dundee",2005,"blood",NA,"Has urinary catheter",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,6,5,66
+744,"SCSB38427",NA,"UK","Europe","Paisley",2005,"blood",NA,"Laparotomy for ischaemic bowel dis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",71,24,4,4,48,124,4,559
+745,"SCSMG68255",NA,"UK","Europe","Inverclyde",2005,"blood",NA,"Necrotising fasciitis",NA,"male",NA,2,2,"2014-12-19","2015-01-08",43,14,8,4,7,3,8,560
+746,"SCSM0528774",NA,"UK","Europe","Borders",2005,"blood",NA,"resection CA rectum",NA,"male",NA,2,2,"2014-12-19","2015-01-08",23,3,5,3,2,100,6,561
+748,"SCS192653R",NA,"UK","Europe","Dundee",2005,"blood",NA,"Pancreatic pseudocyst/on TPN",NA,"female",NA,2,2,"2014-12-19","2015-01-08",5,2,20,6,30,69,22,562
+750,"SCS192654S",NA,"UK","Europe","Dundee",2005,"blood",NA,"Pancreatic pseudocyst/on TPN",NA,"female",NA,2,2,"2014-12-19","2015-01-08",5,2,20,6,30,125,104,563
+752,"SCS90831",NA,"UK","Europe","Crosshouse",2005,"blood",NA,"Laparotomy",NA,"male",NA,2,2,"2014-12-19","2015-01-08",30,12,53,4,6,30,4,564
+753,"SCS91684",NA,"UK","Europe","Crosshouse",2005,"blood",NA,"Hepato-renal failure",NA,"female",NA,2,2,"2014-12-19","2015-01-08",4,4,54,9,89,20,105,565
+754,"SCSXM69475",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Culture-negative discitis",NA,NA,NA,2,2,"2014-12-19","2015-01-08",72,7,20,2,90,103,12,566
+755,"SCSXM69884",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Uro surgery (retrograde stent)",NA,NA,NA,2,2,"2014-12-19","2015-01-08",37,10,21,1,7,11,15,173
+756,"SCSB38619",NA,"UK","Europe","Glasgow",2005,"blood",NA,"ALL",NA,"male",NA,2,2,"2014-12-19","2015-01-08",21,26,14,9,72,102,84,567
+757,"SCS05.46041",NA,"UK","Europe","Paisley",2005,"blood",NA,"Surgery CA colon",NA,"male",NA,2,2,"2014-12-19","2015-01-08",47,14,35,28,44,30,6,521
+758,"SCSXM69885",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Post abdo surgery, ventilator assisted pneumonia",NA,NA,NA,2,2,"2014-12-19","2015-01-08",5,5,20,6,43,69,22,568
+759,"AM2005/0060",NA,"Colombia","South America",NA,2004,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",37,10,21,1,7,126,15,569
+760,"AM2005/0061",NA,"Colombia","South America",NA,2004,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,127,5,570
+761,"AM2005/0062",NA,"Colombia","South America",NA,2004,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+762,"AM2005/0063",NA,"Colombia","South America",NA,2004,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,3,38,2,31,122,15,571
+763,"AM2005/0064",NA,"Colombia","South America",NA,2004,"bronchoalveolar lavage",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,5,572
+764,"AM2005/0065",NA,"Colombia","South America",NA,2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,5,572
+765,"AM2005/0069",NA,"Colombia","South America",NA,2004,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,9,2,6,12,573
+766,"AM2005/0071",NA,"Colombia","South America",NA,2004,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,8,21,19,30,83,22,574
+767,"L517",NA,"UK","Europe","Leicester",1985,"rectal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,4,4,4,4,4,4,216
+769,"AM2005/0072",NA,"Colombia","South America",NA,2004,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,106,575
+770,"AM2005/0073",NA,"Colombia","South America",NA,2004,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",20,3,6,46,26,24,5,576
+771,"AM2005/0074",NA,"Colombia","South America",NA,2004,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",37,19,21,1,56,126,15,577
+772,"AM2005/0075",NA,"Colombia","South America",NA,2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,3,3,3,67,39,95,578
+773,"AM2005/0079",NA,"Colombia","South America",NA,2004,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,5,47,91,20,5,579
+774,"AM2005/0080",NA,"Colombia","South America",NA,2004,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,5,2,48,92,21,5,580
+775,"AM2005/0084",NA,"Colombia","South America",NA,2004,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,21,5,581
+776,"AM2005/0086",NA,"Colombia","South America",NA,2004,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",55,14,4,49,75,45,15,582
+777,"B59630",NA,"Germany","Europe",NA,1991,"oropharynx",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,42,5,2,2,6,12,583
+778,"SCS17151211A",NA,"UK","Europe","Inverness",2005,NA,NA,NA,NA,"female",NA,2,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,12,584
+779,"CL4735",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,107,585
+780,"CL4736",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,28,2,21,5,586
+781,"CL4742",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,2,2,6,5,66
+782,"CL4743",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,5,9,2,106,5,587
+783,"CL4748",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,7,21,1,56,11,15,588
+784,"CL4750",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,27,5,471
+785,"CL4751",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,7,21,4,7,11,15,589
+786,"CL4752",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,26,5,14,93,53,12,590
+787,"CL4753",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,6,56,32,15,591
+788,"SCS68193",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Pancreatic surgery",NA,"female",NA,2,2,"2014-12-19","2015-01-08",43,14,8,4,7,3,8,560
+789,"AM2005/0043",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"healthy volunteer",NA,"female",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,49,592
+790,"SCS102440",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Abdominal sepsis",NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+792,"SCSB38855",NA,"UK","Europe","Paisley",2005,"blood",NA,"Small bowel obstruction",NA,"female",NA,2,2,"2014-12-19","2015-01-08",21,3,14,18,99,102,84,593
+793,"SCSBB424948",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"Bacterial meningitis",NA,"female",NA,2,2,"2014-12-19","2015-01-08",37,12,42,53,6,59,4,594
+794,"SCS70403",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",37,7,42,1,89,114,15,595
+796,"SCS503505",NA,"UK","Europe","Monklands",2005,"blood",NA,"Acute renal failure",NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,8,10,19,53,83,22,596
+797,"SCS223530T",NA,"UK","Europe","Dundee",2005,"blood",NA,"post L hemicolectomy/splenectomy",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,4,20,597
+798,"SCS225582T",NA,"UK","Europe","Dundee",2005,"blood",NA,"Ablation of ??iatoma, on TPN",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+799,"AM2005/0332",NA,"UK","Europe","Cardiff",2005,"other","pus",NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",21,3,14,18,72,102,84,598
+801,"AM2005/0328",NA,"UK","Europe","Cardiff",2005,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,49,4,4,599
+802,"AM2005/0329",NA,"UK","Europe","Cardiff",2005,"blood",NA,NA,NA,"male",NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,49,26,4,328
+805,"AM2005/0293",NA,"UK","Europe","Leeds",2005,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",73,5,5,4,2,6,5,600
+806,"L05-342",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,5,24
+807,"L05-343",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,83,22,601
+808,"L05-344",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,6,5,444
+809,"L05-345",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,6,5,444
+810,"L05-346",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,6,5,444
+811,"L05-347",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,6,5,444
+812,"L05-348",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,83,22,601
+813,"L05-349",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,6,2,2,6,5,519
+814,"L05-350",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,14,4,54,6,45,15,602
+815,"L05-351",NA,"Brazil","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,14,4,54,6,45,15,602
+816,"SCS05.68322A",NA,"UK","Europe","Glasgow",2005,"blood",NA,"Leucocyte adhesion defect type II",NA,"female",NA,2,2,"2014-12-19","2015-01-08",62,3,3,3,3,39,114,603
+817,"SCSBB432720",NA,"UK","Europe","Aberdeen",2005,"blood",NA,"CA rectum - sigmoid colectomy",NA,"male",NA,2,2,"2014-12-19","2015-01-08",35,2,4,4,34,26,115,604
+818,"SCS80568",NA,"UK","Europe","Glasgow",2005,"blood",NA,"pneumonia",NA,"male",NA,2,2,"2014-12-19","2015-01-08",70,14,8,4,7,3,8,605
+819,"SCS1949929R",NA,"UK","Europe","Fife",2005,"blood",NA,"Diabetes insipidus ?sarcoid",NA,"male",NA,2,2,"2014-12-19","2015-01-08",2,3,5,28,2,6,5,606
+820,"AM2005/0407",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,10,21,1,2,11,15,607
+821,"AM2005/0408",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,10,21,1,34,11,15,608
+822,"AM2005/0386",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,12,21,1,6,30,4,514
+823,"AM2005/0387",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",74,7,43,7,13,19,14,609
+824,"AM2005/0388",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,7,30,4,7,10,8,610
+825,"AM2005/0389",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,116,611
+826,"AM2005/0466",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,4,14,4,4,35,4,612
+827,"AM2005/0450",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,6,4,34,24,4,613
+828,"AM2005/0427",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,10,6,1,7,11,15,614
+829,"AM2005/0428",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,26,56,18,31,111,12,615
+830,"AM2005/0429",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,7,4,3,34,45,15,616
+831,"AM2005/0430",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,8,21,19,30,83,22,617
+832,"AM2005/0418",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,21,4,53,109,13,618
+833,"AM2005/0419",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,6,4,7,10,8,619
+834,"AM2005/0420",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,8,4,7,10,8,620
+835,"AM2005/0404",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,10,35,621
+836,"AM2005/0479",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,14,8,4,7,10,8,622
+837,"AM2005/0480",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,2,3,8,623
+838,"AM2005/0481",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,7,30,4,7,10,8,624
+839,"AM2005/0482",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,55,2,6,5,625
+840,"AM2005/0483",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,117,626
+841,"AM2005/0431",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",25,7,6,3,6,27,37,90
+842,"AM2005/0433",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,34,26,4,627
+843,"PCPat09",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",35,4,4,4,4,4,4,232
+844,"PCPat13a",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",35,7,6,4,4,26,4,208
+845,"PCPat54",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+846,"PCPat78a",NA,"UK","Europe","Leeds",NA,"sputum",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+847,"PCPat78b",NA,"UK","Europe","Leeds",NA,"faeces",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",8,14,8,4,7,10,8,124
+848,"PCPat83b",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",5,38,37,4,34,105,15,393
+849,"PCPat84",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+850,"PCPat96c",NA,"UK","Europe","Leeds",NA,"faeces",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",13,39,15,6,7,37,40,398
+851,"PCPat98",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+852,"PCPat128a",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,2,2,2,6,5,59
+853,"PCPat135",NA,"UK","Europe","Leeds",NA,"skin","groin",NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+854,"PCStaff01",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",21,26,14,18,72,102,84,409
+855,"PCStaff11",NA,"UK","Europe","Leeds",NA,"skin","hand",NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+856,"PCStaff12",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",36,4,4,4,4,26,4,244
+857,"PCStaff17",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,5,277
+858,"PCStaff18",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+859,"PCStaff19",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+860,"PCStaff04",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",35,7,6,4,4,26,4,208
+861,"PCStaff06",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+862,"PCStaff08",NA,"UK","Europe","Leeds",NA,"oral swab",NA,NA,NA,NA,NA,19,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+863,"PCA",NA,"UK","Europe",NA,NA,NA,NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-07",30,12,21,1,24,30,4,629
+864,"PCB",NA,"UK","Europe",NA,NA,NA,NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-07",30,3,3,3,3,32,95,630
+865,"PCC",NA,"UK","Europe",NA,NA,NA,NA,NA,NA,NA,NA,19,2,"2014-12-19","2015-01-07",30,3,3,3,27,32,95,631
+866,"AM2005/0435",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,6,7,55,71,632
+867,"AM2005/0449",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",75,14,8,4,7,3,118,633
+868,"AM2005/0478",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,14,8,4,7,10,8,622
+869,"AM2005/0377",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",76,7,30,4,58,3,35,634
+870,"AM2005/0376",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,2,50,6,5,635
+871,"AM2005/0362",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,8,4,7,13,8,636
+872,"AM2005/0469",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,6,7,37,12,637
+873,"AM2005/0446",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,6,2,2,6,12,638
+874,"AM2005/0445",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",74,10,15,6,7,37,15,639
+875,"AM2005/0458",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,16,104
+876,"AM2005/0361",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,50,10,8,640
+877,"AM2005/0442",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,28,15,6,7,32,15,641
+878,"AM2005/0454",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,19,15,6,34,32,15,642
+879,"AM2005/0485",NA,"Ecuador","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",77,14,6,6,4,20,15,643
+880,"AM2005/0484",NA,"Ecuador","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,48,21,1,7,11,15,644
+881,"AM2005/0441",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,47,2,6,5,645
+882,"AM2005/0477",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,4,4,4,34,26,4,646
+883,"AM2005/0470",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,15,5,2,2,20,5,647
+884,"AM2005/0353",NA,"Slovakia","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,7,30,4,7,10,8,610
+885,"AM2005/0365",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,49,16,29,97,19,14,648
+886,"AM2005/0374",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",25,7,6,56,6,27,37,649
+887,"AM2005/0475",NA,"Ecuador","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,7,4,54,101,45,15,650
+888,"AM2005/0452",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+889,"AM2005/0457",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,5,277
+890,"AM2005/0460",NA,"Finland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,37,2,30,134,12,651
+891,"AM2005/0461",NA,"Finland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,6,4,7,10,35,652
+892,"AM2005/0462",NA,"Finland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,6,4,7,3,8,653
+893,"AM2005/0463",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+894,"AM2006/0015",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,34,26,4,627
+895,"AM2005/0436",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,3,6,4,102,4,22,654
+896,"AM2005/0437",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,76,26,4,655
+897,"AM2005/0438",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,3,8,4,7,10,8,392
+898,"AM2005/0476",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,10,8,656
+899,"AM2005/0473",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,2,2,2,80,6,27,657
+900,"AM2005/0474",NA,"Ecuador","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,27,21,1,7,11,15,658
+901,"AM2005/0472",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+902,"AM2005/0467",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,27,15,6,7,32,15,186
+903,"AM2005/0468",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,7,14,6,34,55,15,660
+904,"AM2005/0465",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,2,4,4,4,26,4,526
+905,"AM2005/0464",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,7,8,4,7,10,8,661
+906,"AM2005/0453",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,27,15,6,7,32,15,186
+907,"AM2005/0456",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,27,15,6,42,37,15,662
+908,"AM2005/0448",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",43,14,8,4,34,10,8,663
+909,"AM2005/0415",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,14,4,3,6,45,15,365
+910,"AM2005/0416",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,32,21,34,7,13,5,664
+911,"AM2005/0421",NA,"Spain","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,9,2,6,5,254
+912,"AM2005/0422",NA,"Spain","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,135,22,665
+913,"AM2005/0423",NA,"Spain","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,135,22,665
+914,"AM2005/0432",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,26,4,155
+915,"AM2005/0401",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,14,38,2,78,122,15,666
+916,"AM2005/0402",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,6,4,34,10,8,667
+917,"AM2005/0405",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",46,7,4,3,7,136,120,668
+918,"AM2005/0411",NA,"Argentina","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",54,31,10,36,83,113,111,669
+919,"P01",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,21,50,27,3,13,670
+920,"P02",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,2,21,19,27,83,22,671
+921,"P03",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",53,3,10,36,94,137,121,672
+922,"P05",NA,"Taiwan","Asia",NA,NA,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,100,113,673
+923,"P06",NA,"Taiwan","Asia",NA,NA,"bronchoalveolar lavage",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",1,7,15,6,61,23,112,674
+924,"P07",NA,"Taiwan","Asia",NA,NA,"catheter",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",59,7,21,2,81,108,90,466
+925,"P08",NA,"Taiwan","Asia",NA,NA,"wound",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",62,28,6,35,95,138,40,675
+926,"P09",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",53,31,10,4,83,113,121,676
+927,"P10",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,21,50,27,109,13,677
+928,"P11",NA,"Taiwan","Asia",NA,NA,"other","peritoneal swab",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,3,6,36,34,60,119,678
+929,"P12",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",62,3,21,3,53,109,95,679
+930,"P13",NA,"Taiwan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,3,50,3,139,13,680
+931,"P14",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,5,3,2,3,113,681
+932,"P15",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",10,7,6,28,96,140,1,682
+933,"P16",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",34,3,5,9,103,100,113,683
+934,"P17-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+935,"P17-2",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,14,6,57,43,128,15,684
+936,"P17-3",NA,"Taiwan","Asia",NA,NA,"bronchoalveolar lavage",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",55,7,6,57,43,131,15,685
+937,"P18-1",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,23,5,58,2,21,19,686
+938,"P18-2",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",10,46,21,28,67,141,108,687
+939,"P18-3",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",34,3,5,3,104,100,113,688
+940,"P18-4",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,5,3,104,100,113,689
+941,"P19-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",53,31,10,36,94,113,121,690
+942,"P19-2",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,23,6,3,57,100,113,691
+943,"P19-3",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,9,2,6,19,692
+944,"P20-1",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",1,7,15,6,61,105,112,693
+945,"P20-3",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",1,3,49,6,61,105,112,694
+946,"P21-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,83,22,601
+947,"P21-2",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,17,21,19,27,83,22,695
+948,"P22-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,7,6,28,96,142,3,696
+949,"P22-3",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",10,7,6,28,96,140,3,697
+950,"P23-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",58,47,4,35,105,23,109,698
+951,"P24-1",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,14,57,100,113,699
+952,"P25-1",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,55,3,57,100,110,700
+953,"P25-2",NA,"Taiwan","Asia",NA,NA,"faeces",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,55,3,97,3,110,701
+954,"P26",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",1,7,15,24,61,105,8,702
+955,"P27",NA,"Taiwan","Asia",NA,NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",54,31,10,36,98,113,121,703
+956,"P28-1",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,21,28,27,109,1,704
+957,"P28-2",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",59,4,21,58,80,108,15,705
+958,"P29-1",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,80,130,113,706
+959,"P29-2",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,130,113,707
+960,"P29-3",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,2,3,57,130,113,708
+961,"P30-1",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,2,3,97,3,113,709
+962,"P30-2",NA,"Taiwan","Asia",NA,NA,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,2,3,57,3,113,710
+963,"P04",NA,"Taiwan","Asia",NA,NA,"urine",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,21,6,27,109,112,711
+964,"AM2005/0392",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",78,14,8,4,7,10,8,712
+965,"AM2005/0393",NA,"Poland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,6,2,2,6,5,103
+966,"AM2005/0394",NA,"Italy","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,10,6,7,32,122,713
+967,"AM2005/0398",NA,"Russia","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",78,3,8,4,7,10,8,714
+968,"AM2005/0399",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",37,10,21,1,7,11,15,173
+969,"AM2005/0400",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,5,5,2,2,6,5,184
+970,"AM2005/0375",NA,"Poland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,30,4,74,10,8,715
+971,"AM2005/0378",NA,"Poland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,12,21,1,6,30,4,514
+972,"AM2005/0379",NA,"Poland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,9,2,6,5,254
+973,"AM2005/0380",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,3,3,3,39,95,716
+974,"AM2005/0381",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,2,2,24,44,717
+975,"AM2005/0382",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,50,38,4,106,122,15,718
+976,"AM2005/0383",NA,"Italy","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,32,22,719
+977,"AM2005/0384",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,17,21,19,27,32,22,719
+978,"AM2005/0385",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,6,7,143,71,720
+979,"AM2005/0390",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,2,5,4,2,24,5,721
+980,"AM2005/0366",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,5,20,6,43,69,22,568
+981,"AM2005/0367",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,3,6,19,43,69,22,722
+982,"AM2005/0434",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,6,4,7,10,8,619
+983,"AM2005/0455",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,14,38,4,78,122,71,723
+984,"AM2005/0363",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",63,14,8,4,7,10,8,724
+985,"AM2005/0451",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,2,10,8,725
+986,"AM2005/0459",NA,"Finland","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,6,2,2,24,5,203
+987,"AM2005/0471",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,7,30,4,7,10,8,610
+988,"AM2005/0439",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,9,2,6,5,79
+989,"AM2005/0440",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,5,2,2,6,5,66
+990,"AM2005/0443",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,5,5,2,2,6,5,572
+991,"AM2005/0444",NA,"USA","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,9,2,6,5,79
+992,"AM2005/0447",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",43,14,8,4,34,10,8,663
+993,"AM2005/0417",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,7,15,6,7,37,15,726
+994,"AM2005/0424",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,32,21,34,7,74,5,727
+995,"AM2005/0425",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,51,48,18,30,111,15,728
+996,"AM2005/0426",NA,"China","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",25,7,6,3,24,27,37,729
+997,"AM2005/0403",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,10,8,656
+998,"AM2005/0410",NA,"Argentina","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,6,2,2,6,52,730
+999,"AM2005/0412",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,13,15,6,7,143,15,731
+1000,"AM2005/0413",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,32,21,34,7,55,5,732
+1001,"AM2005/0414",NA,"Italy","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,15,19,7,37,15,733
+1002,"AM2005/0391",NA,"Turkey","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",78,14,8,4,7,10,22,734
+1003,"AM2005/0395",NA,"Argentina","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,95,735
+1004,"AM2005/0396",NA,"Argentina","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,5,5,2,2,6,16,736
+1005,"AM2005/0397",NA,"Russia","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",79,14,8,4,107,10,8,737
+1006,"SCS71174L",NA,"UK","Europe","Edinburgh",2005,"blood",NA,"Cystic fibrosis + IUDA, portacath in situ",NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,4,4,4,26,20,738
+1007,"SCS72372G",NA,"UK","Europe","Edinburgh",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,6,5,59
+1008,"SCS72866E",NA,"UK","Europe","Edinburgh",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,52,6,18,51,144,22,739
+1009,"SCS73008K",NA,"UK","Europe","Edinburgh",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",78,14,8,4,7,3,8,740
+1010,"SCS129726T",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",78,14,8,4,7,3,8,740
+1011,"SCS74387",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,26,4,155
+1012,"SCS5090869229",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,4,4,232
+1013,"SCS5082690342",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,20,149
+1014,"SCS121377Y",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,14,57,28,44,30,6,741
+1015,"SCS119883T",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",13,2,41,2,4,47,27,742
+1016,"SCS125013CB1",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",78,14,8,4,7,10,8,712
+1018,"SCS126242Ya",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+1020,"SCS126269L",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1021,"SCS125954Y",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1022,"SCS133489T",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,21,5,110
+1023,"SCS133719B",NA,"UK","Europe","Glasgow",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,26,14,18,72,102,84,409
+1024,"SCSB41229",NA,"UK","Europe","Royal Alexandra",2005,"blood",NA,"Aspiration pneumonia",NA,"male",NA,2,2,"2014-12-19","2015-01-08",13,7,15,6,7,37,15,726
+1025,"AM2005/0356",NA,"Czech Republic","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,12,21,1,6,20,123,743
+1026,"AM2005/0357",NA,"Czech Republic","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,108,117,18,744
+1027,"AM2005/0358",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,14,8,4,7,10,35,745
+1028,"AM2005/0359",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,5,58,4,2,6,5,746
+1029,"AM2005/0345",NA,"The Netherlands","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",80,3,6,4,31,45,13,747
+1030,"AM2005/0346",NA,"The Netherlands","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,67,39,95,578
+1031,"AM2005/0347",NA,"The Netherlands","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,3,8,605
+1032,"AM2005/0348",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,6,4,7,3,124,748
+1033,"AM2005/0349",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,95,735
+1034,"AM2005/0350",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",24,32,21,2,54,53,66,749
+1035,"AM2005/0351",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,59,2,2,6,12,750
+1036,"AM2006/0047",NA,"Italy","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",81,3,3,2,7,39,125,751
+1037,"AM2005/0368",NA,"Hungary","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,2,7,3,8,752
+1038,"AM2005/0369",NA,"Hungary","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",14,7,8,2,7,10,8,753
+1039,"AM2005/0370",NA,"Hungary","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",7,3,21,5,6,4,126,754
+1040,"AM2005/0371",NA,"Hungary","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,7,6,4,7,3,126,755
+1041,"AM2005/0372",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",25,7,6,3,6,27,126,756
+1042,"AM2005/0373",NA,"Venezuela","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",25,7,6,3,6,27,126,756
+1043,"AM2005/0364",NA,"Portugal","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,2,3,126,757
+1044,"AM2005/0352",NA,"Slovakia","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,126,758
+1045,"AM2005/0360",NA,"South Africa","Africa",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,3,4,4,34,20,18,759
+1046,"AM2005/0354",NA,"Czech Republic","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,117,4,760
+1047,"AM2005/0355",NA,"Czech Republic","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,37,2,38,46,126,761
+1048,"MG965375B",NA,"UK","Europe","Leicester",2006,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,5,37
+1049,"MG965099G",NA,"UK","Europe","Leicester",2006,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,3,5,2,2,21,5,762
+1050,"MG962567Y",NA,"UK","Europe","Leicester",2006,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,4,4,4,4,4,4,216
+1051,"MG963187E",NA,"UK","Europe","Leicester",2006,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,21,12,763
+1052,"MG962481Y",NA,"UK","Europe","Leicester",2006,NA,NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,2,4,4,49,26,127,764
+1053,"JIMS500008",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",74,7,16,7,7,19,14,765
+1054,"JIMS500011",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,100,6,766
+1055,"JIMS500015",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,5,5,9,2,6,5,79
+1056,"JIMS500012",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",13,3,60,4,31,45,13,767
+1057,"JIMS500029",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,2,100,6,561
+1058,"JIMS500027",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",4,4,6,2,96,111,15,768
+1059,"JIMS500022",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",13,10,10,6,7,37,15,769
+1060,"JIMS500013",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+1061,"JIMS500025",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,14,57,100,128,770
+1062,"JIMS500026",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",74,7,16,5,13,19,14,771
+1063,"JIMS500028",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",24,26,61,2,109,20,129,772
+1064,"JIMS500032",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",11,53,6,4,34,145,130,773
+1065,"JIMS500010",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",33,14,4,3,6,45,15,774
+1066,"JIMS500007",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,3,5,9,2,6,5,435
+1067,"JIMS500023",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",4,4,14,4,49,146,22,775
+1068,"JIMS500021",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",14,3,8,4,58,10,8,776
+1069,"JIMS500005",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+1070,"JIMS500004",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,20,6,777
+1071,"JIMS500006",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",54,31,10,36,83,113,111,669
+1072,"JIMS500009",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,3,6,778
+1073,"JIMS500030",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",74,29,6,42,31,13,5,779
+1074,"JIMS500020",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",82,2,5,2,2,6,5,780
+1075,"JIMS500024",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",35,4,6,4,34,26,4,781
+1076,"JIMS500001",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",8,3,6,2,2,6,5,171
+1077,"JIMS500002",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",33,7,32,43,2,61,48,782
+1078,"JIMS500003",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",5,13,37,4,34,105,15,783
+1079,"JIMS500014",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,100,6,766
+1080,"JIMS500016",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,2,100,6,561
+1081,"JIMS500017",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",21,10,41,4,6,147,47,784
+1082,"JIMS500019",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1083,"JIMS500031",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,"female",NA,2,2,"2014-12-19","2014-12-19",25,7,6,3,6,45,37,785
+1086,"AM2005/0077",NA,"Colombia","South America",NA,2004,"blood",NA,"blood",NA,NA,NA,2,2,"2014-12-19","2015-01-08",83,10,62,6,56,37,15,788
+1087,"AM2005/0085",NA,"Colombia","South America",NA,2004,"wound",NA,"wound",NA,NA,NA,2,2,"2014-12-19","2015-01-08",84,5,5,2,2,24,5,789
+1095,"AM2005/0406",NA,"Mexico","North America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",6,3,37,9,38,116,12,796
+1106,"SCS31523",NA,"UK","Europe","Kilmarnock",NA,"blood",NA,"Disseminated ca. B/C 9/11/05",NA,"male",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,20,485
+1107,"SCSM1950491Y",NA,"UK","Europe","Dunfermline",NA,"blood",NA,"Partial gastrectomy for perf. duodenal ulcer",NA,"female",NA,2,2,"2014-12-19","2014-12-19",85,14,21,18,113,32,6,798
+1108,"SCS17181788",NA,"UK","Europe","Inverness",NA,"blood",NA,"End stage renal failure; on haemodialysis",NA,"female",NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1109,"SCSB40970",NA,"UK","Europe","Paisley",NA,"blood",NA,"Infected arthritic hip",NA,"female",NA,2,2,"2014-12-19","2014-12-19",36,4,4,4,4,4,4,216
+1110,"SCSBB435684",NA,"UK","Europe","Aberdeen",NA,"blood",NA,"Burns",NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,95,735
+1111,"SCS71865L",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,21,5,151
+1112,"SCS13732R",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,61,7,3,8,799
+1113,"SCS2186281",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,2,4,4,4,148,4,800
+1114,"SCS129732V",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,4,4,4,24,4,801
+1115,"SCS125409F",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",78,3,6,4,2,10,8,802
+1116,"SCS82338",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,4,4,232
+1117,"SCS119299X",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,21,12,803
+1118,"SCS84398",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,2,2,2,20,5,804
+1119,"SCS125009C",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,10,8,656
+1122,"SCS125893Wa",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1123,"SCS125034",NA,"UK","Europe","Glasgow",NA,"blood",NA,"Infected abdominal mesh",NA,"male",NA,2,2,"2014-12-19","2014-12-19",55,14,4,3,114,45,22,805
+1124,"SCS127733",NA,"UK","Europe","Glasgow",NA,"blood",NA,"Renal transplant",NA,"female",NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,2,10,8,725
+1125,"SCS263",NA,"UK","Europe","Kilmarnock",NA,"blood",NA,"AML, Hickman line, neutropenia",NA,NA,NA,2,2,"2014-12-19","2014-12-19",39,14,35,28,44,4,6,806
+1126,"SCS5122490519",NA,"UK","Europe","Edinburgh",NA,"blood",NA,"Sepsis, laparotomy",NA,"female",NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,26,32,133,807
+1127,"SCS6008833",NA,"UK","Europe","Glasgow",NA,"blood",NA,"Duodenal switch procedure, intra-abdominal collection",NA,"female",NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,34,4,4,808
+1128,"SCS6008930",NA,"UK","Europe","Glasgow",NA,"blood",NA,"Duodenal switch procedure, intra-abdominal collection",NA,"female",NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,34,4,4,808
+1129,"JIMS500018",NA,"Japan","Asia",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,5,277
+1130,"JIMS101103",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,13,8,809
+1131,"JIMS101104",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",86,3,5,3,2,100,128,810
+1132,"JIMS103102",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,37,2,38,46,12,811
+1133,"JIMS106101",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,7,15,6,7,37,15,726
+1134,"JIMS126109",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",12,3,63,9,57,100,134,812
+1135,"JIMS128113",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,4,4,4,34,35,4,325
+1136,"JIMS132203",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,54,4,27,43,104,90,813
+1137,"JIMS143104",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,8,167
+1138,"JIMS143203",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,135,814
+1139,"JIMS146204",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",47,14,57,28,44,30,128,815
+1140,"JIMS158106",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,23,2,2,2,6,5,816
+1141,"JIMS158107",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,2,3,57,100,6,817
+1142,"JIMS158108",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,5,3,57,100,6,367
+1143,"JIMS160211",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,2,5,2,2,6,5,554
+1144,"JIMS160401",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",7,3,3,3,3,39,95,818
+1145,"JIMS160517",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,3,54,2,2,149,5,819
+1146,"JIMS160525",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",3,3,5,3,2,100,6,820
+1147,"JIMS160526",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,24,5,821
+1148,"JIMS160529",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,100,6,766
+1149,"JIMS160530",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,32,64,34,7,55,5,822
+1150,"JIMS160532",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,5,3,57,100,136,823
+1151,"JIMS160541",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",47,13,4,2,2,53,22,824
+1152,"JIMS169102",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",34,3,5,3,57,150,6,825
+1153,"JIMS173203",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,5,24
+1154,"JIMS174106",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",23,3,2,3,115,100,6,826
+1155,"JIMS187105",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",59,55,35,62,44,30,6,827
+1156,"SCS74518E",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,3,6,2,2,20,5,127
+1157,"SCS75287W",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,7,4,4,4,117,4,828
+1158,"SCS74495Z",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,7,65,4,4,26,20,829
+1159,"SCS74405M",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,2,14,4,4,26,4,830
+1160,"SCS74719Z",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,2,2,2,6,5,59
+1161,"SCS75913G",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,26,14,18,72,102,84,409
+1162,"SCS1953085L",NA,"UK","Europe","Dunfermline",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1163,"SCS100430",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,7,4,4,4,26,4,315
+1164,"SCSBB404636",NA,"UK","Europe","Aberdeen",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,17,4,4,26,20,831
+1165,"SCS120376P",NA,"UK","Europe","Dundee",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",58,3,8,4,7,44,8,832
+1166,"SCSBB405121",NA,"UK","Europe","Aberdeen",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,10,6,2,93,151,22,833
+1167,"AM2006/0103",NA,"Chile","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,5,2,2,2,6,16,1005
+1168,"AM2006/0105",NA,"Chile","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,4,2,6,5,444
+1169,"SCS12501013C",NA,"UK","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,14,8,4,7,10,8,656
+1170,"S09",NA,"Italy","Europe","Pisa",NA,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,17,21,19,27,32,22,834
+1171,"SCS75372S",NA,"UK","Europe",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,7,4,4,7,10,4,835
+1172,"SCS73407",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,4,4,4,4,4,4,232
+1173,"AM2003/0173",NA,"UK","Europe","London",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",5,5,5,4,116,6,5,836
+1174,"F59",NA,"Israel","Asia","Tel Aviv",NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",70,3,8,4,7,10,8,620
+1175,"SCSM129726T",NA,"UK","Europe","Kilmarnock",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,35,6,74,76,8,837
+1176,"JIMS178309",NA,"Japan","Asia",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",21,14,41,4,6,147,47,838
+1177,"AM2006/0104",NA,"Chile","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",30,3,3,3,3,39,95,735
+1178,"AM2006/0106",NA,"Chile","South America",NA,NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1179,"NCPF6522",NA,"France","Europe",NA,1998,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,6,30,22,839
+1181,"NCPF9016",NA,"France","Europe",NA,1999,"other","oesophagus",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",6,3,37,2,38,46,12,840
+1183,"NCPF6528",NA,"France","Europe",NA,1998,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",30,12,21,1,6,30,22,839
+1184,"NCPF9002",NA,"The Netherlands","Europe",NA,1999,"other","oesophagus",NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,4,2,6,5,444
+1188,"NCPF6513",NA,"Unknown",NA,NA,1999,"sputum",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",70,14,8,4,34,10,8,841
+1189,"MFB-2",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,4,4,4,4,4,232
+1190,"ASK-2",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,6,4,4,4,4,318
+1191,"RS-2",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",33,14,38,2,117,122,15,842
+1192,"AM06/0176",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,7,4,4,4,4,4,793
+1193,"AM06/0177",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,2,4,4,4,4,4,275
+1194,"AM06/0178",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,7,4,4,4,4,4,793
+1195,"AM06/0179",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,12,92
+1196,"AM06/0180",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,7,4,4,4,148,4,843
+1197,"AM06/0181",NA,"UK","Europe","Romford",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,7,4,4,4,4,4,793
+1198,"M97105",NA,"USA","North America","Seattle",NA,"animal","chimpanzee",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1199,"K98227",NA,"USA","North America","Seattle",NA,"animal","chimpanzee",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1200,"M97161",NA,"USA","North America","Seattle",NA,"animal","chimpanzee",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,27,5,471
+1201,"ASK-3",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",35,4,6,4,4,4,4,318
+1202,"KEC-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",23,3,5,3,57,100,6,766
+1203,"KEC-5",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,4,4,4,26,4,497
+1204,"KSM-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1205,"DM-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,56,14,4,4,26,26,844
+1206,"DM-2",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,4,14,4,4,26,26,845
+1207,"JS-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,3,6,3,118,20,12,846
+1208,"SCS103356Y",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,7,30,4,7,44,8,847
+1209,"SCS103700S",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,16,848
+1210,"SCS122349A",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,2,2,2,6,5,59
+1211,"SCS123784Y",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,14,50,6,4,118,15,849
+1212,"SCS103354N",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,44,8,189
+1213,"SCS103605F",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,7,30,4,7,44,8,847
+1214,"SCS122565G",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,14,50,6,4,118,137,850
+1215,"SCS103353G",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",58,14,8,4,7,44,8,851
+1216,"SCS125619D",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+1217,"SCS103607F",NA,"UK","Europe","Glasgow",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,14,8,4,7,44,8,189
+1218,"SCS73483A",NA,"UK","Europe","Edinburgh",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,2,852
+1219,"SCS76224P",NA,"UK","Europe","Edinburgh",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",14,14,8,4,2,3,8,853
+1220,"SCSMB042618",NA,"UK","Europe","Paisley",2006,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",3,5,5,2,2,68,5,854
+1221,"WD-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,8,14,18,72,102,84,855
+1222,"WD-3",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,8,14,18,72,47,84,856
+1223,"MF-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",36,29,4,4,4,4,4,857
+1224,"OW-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,2,14,4,4,117,4,858
+1225,"SF-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1226,"AS-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",21,8,21,19,27,152,22,859
+1227,"XI-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,2,2,153,2,860
+1228,"MAT-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",8,5,2,2,2,6,49,861
+1229,"MM-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",4,7,66,4,32,26,20,862
+1230,"SA-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",23,3,5,3,57,100,6,766
+1231,"GN-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,5,79
+1232,"LS-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",2,2,5,2,2,6,5,277
+1233,"LM-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",39,14,50,6,4,118,22,863
+1234,"SAM-1",NA,"UK","Europe","Aberdeen",2006,"oral swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",70,14,6,4,7,3,8,864
+1235,"CRC47",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,15,6,42,37,22,865
+1236,"CRC5",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,1,6,4,4,866
+1237,"DPC1",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,3,3,2,119,39,138,867
+1238,"DPC11",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,50,37,15,868
+1239,"DPC111",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,3,2,3,154,22,869
+1240,"DPC114",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,155,27,870
+1241,"DPC118",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",31,2,5,2,2,20,49,871
+1242,"DPC119",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,20,49,872
+1243,"DPC12",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,50,37,15,868
+1244,"DPC120",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,20,49,872
+1245,"DPC122",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,2,2,2,6,5,170
+1246,"DPC124",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,2,2,2,6,5,170
+1247,"DPC133",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,2,5,2,2,155,5,873
+1248,"DPC134",NA,"Belgium","Europe",NA,2001,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,4,6,30,4,874
+1249,"DPC135",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",30,3,21,1,6,30,4,875
+1250,"DPC155",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,4,538
+1251,"DPC157",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",58,14,8,4,50,3,35,876
+1252,"DPC16",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,2,25,18,120,32,6,877
+1253,"DPC161",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,3,20,6,26,69,22,878
+1254,"DPC162",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,5,20,6,26,69,22,879
+1255,"DPC163",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,1,6,30,4,880
+1256,"DPC166",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",35,7,67,63,4,156,4,881
+1257,"DPC167",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,7,67,63,4,26,4,882
+1258,"DPC168",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,4,6,30,4,874
+1259,"DPC18",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,17,21,6,27,84,22,883
+1260,"DPC2",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,4,538
+1261,"DPC200",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,20,49,872
+1262,"DPC204",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,4,538
+1263,"DPC205",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,57,15,6,7,32,15,884
+1264,"DPC206",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,83,5,885
+1265,"DPC207",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",87,14,6,1,65,157,22,886
+1266,"DPC208",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",87,14,6,5,65,157,22,887
+1267,"DPC210",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,20,6,12,69,22,888
+1268,"DPC22",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,17,21,6,27,158,22,889
+1269,"DPC25",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,68,6,50,159,139,890
+1270,"DPC28",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",88,12,69,1,6,30,4,891
+1271,"DPC3",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,4,4,892
+1272,"DPC30",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,4,34,30,4,893
+1273,"DPC31",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,1,34,30,4,894
+1274,"DPC32",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,2,5,2,2,6,27,895
+1275,"DPC35",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",47,14,52,28,18,4,6,896
+1276,"DPC37",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,5,5,2,2,6,5,572
+1277,"DPC38",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,5,5,2,2,6,5,572
+1278,"DPC39",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",36,4,14,4,4,4,4,194
+1279,"DPC40",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",36,4,14,4,4,4,4,194
+1280,"DPC44",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,58,21,1,6,30,4,897
+1281,"DPC46",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,15,6,42,37,22,865
+1282,"DPC47",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,15,6,42,160,22,898
+1283,"DPC5",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,70,1,6,4,4,899
+1284,"DPC54",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,12,92
+1285,"DPC55",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,161,4,900
+1286,"DPC6",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,4,15,901
+1287,"DPC60",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,155,5,902
+1288,"DPC63",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",30,12,21,1,6,4,4,903
+1289,"DPC64",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",37,10,21,1,7,11,15,173
+1290,"DPC65",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",60,10,21,1,7,11,4,904
+1291,"DPC66",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,3,3,3,3,22,905
+1292,"DPC68",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",37,10,21,1,34,11,15,608
+1293,"DPC7",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,1,6,30,4,880
+1294,"DPC70",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",89,12,21,1,6,30,4,906
+1295,"DPC71",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",89,12,21,1,6,30,4,906
+1296,"DPC74",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",78,12,21,1,6,30,4,907
+1297,"DPC78",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,59,21,1,121,162,4,908
+1298,"DPC79",NA,"Belgium","Europe",NA,2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",6,13,21,1,7,11,4,909
+1299,"DPC80",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",60,10,21,1,7,11,15,461
+1300,"DPC81",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",90,4,4,4,4,26,22,910
+1301,"DPC87",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,3,20,6,43,163,22,911
+1302,"DPC90",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,20,912
+1303,"M36",NA,"Belgium","Europe",NA,2000,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1304,"ABCURM3",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,9,2,6,25,913
+1305,"ABCURM1",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,8,4,7,164,8,914
+1306,"APRHCRC1",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,3,6,4,7,10,8,915
+1307,"APRHCRM2",NA,"France","Europe","Paris area",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",35,4,14,4,4,26,4,916
+1308,"APRURC3",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",3,3,3,3,26,39,95,529
+1309,"APRURM3",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,2,5,2,2,24,8,917
+1310,"APRURM6",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,3,3,3,39,95,918
+1311,"APRURM7",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",15,7,16,7,122,51,14,919
+1312,"BCHHRC1",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,3,3,3,39,95,918
+1313,"BCHHRS2",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,27,920
+1314,"BCHURC10",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",4,7,16,7,13,165,20,921
+1315,"BCHURC13",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,2,2,2,2,6,5,170
+1316,"BCHURC15",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",9,10,21,1,7,11,15,922
+1317,"BCHURC16",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+1318,"BCHURC2",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1319,"BCHURS15",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,3,5,2,2,6,5,66
+1320,"BCHURS19",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1321,"BCHURS24",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",91,32,21,9,55,53,66,923
+1322,"BCHURS3",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,6,4,7,3,8,924
+1323,"BCHURS5",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",9,13,21,1,7,11,15,925
+1324,"BCHURS6",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",13,10,15,6,7,37,15,344
+1325,"BCHURS9",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",58,7,8,4,7,3,8,926
+1326,"Bel124",NA,"France","Europe","Paris area",1998,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,21,5,37
+1327,"CCHHCRM11",NA,"France","Europe","Paris area",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",43,14,8,4,7,10,8,927
+1328,"CCHHCRM2",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,2,5,2,2,6,5,277
+1329,"CCHHCRM4",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",24,3,6,4,31,20,15,928
+1330,"CCHHCRM7",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,3,3,3,39,95,918
+1331,"CCHHCRS1",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,4,538
+1332,"CCHHCRS5",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,5,572
+1333,"CCHURM1",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",9,32,4,28,34,27,15,929
+1334,"CCHURM12",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",15,7,16,7,13,19,14,306
+1335,"CCHURM14",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,3,36,3,39,95,930
+1336,"CCHURM2",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,2,5,2,2,6,5,277
+1337,"CCHURM4",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,140,931
+1338,"CCHURM7",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",80,3,6,4,31,45,13,747
+1339,"CCHURM9",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",53,31,10,64,84,114,111,932
+1340,"CCHURS10",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",92,32,3,3,12,101,95,933
+1341,"CCHURS4",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1342,"CCHURS5",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1343,"CCHURS7",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,3,5,2,2,6,5,66
+1344,"d21",NA,"France","Europe","Rennes",2001,"animal","starling",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,3,21,6,6,32,6,934
+1345,"D3",NA,"France","Europe","Rennes",2000,"animal","starling",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,3,21,6,6,166,6,935
+1346,"d9",NA,"France","Europe","Rennes",1993,"animal","starling",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",33,3,21,6,6,32,6,936
+1347,"DPC142",NA,"France","Europe","Rennes",2000,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,71,1,6,30,4,937
+1348,"EGPURC6",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1349,"HTDURS1",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,20,938
+1350,"Kdrecipient",NA,"France","Europe","Rouen",2002,"other","kidney",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,5,417
+1351,"Lvrecipient",NA,"France","Europe","Rennes",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,5,417
+1352,"PSH020",NA,"France","Europe","Rennes",2000,"faeces",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1353,"SATURM5",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1354,"SLSHRM2",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1355,"SLSURC10",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1356,"SLSURC4",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,20,485
+1357,"SLSURC5",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1358,"SLSURM12",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1359,"SLSURM3",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,5,5,2,2,6,5,572
+1360,"SLSURM7",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1361,"TNMHRC4",NA,"France","Europe","Paris area",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1366,"X13",NA,"France","Europe","Rennes",1993,"animal","starling",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",53,31,10,37,84,114,111,942
+1367,"X14",NA,"France","Europe","Rennes",1993,"animal","starling",NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",53,31,10,37,24,114,111,943
+1368,"NGBariza",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",5,14,2,4,7,3,8,944
+1369,"NGCTA662",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,2,65,2,24,5,945
+1370,"NGCTA678",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,26,2,2,2,24,5,946
+1371,"Niger10",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",4,17,21,19,27,84,22,947
+1372,"Niger11",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,2,4,7,3,8,948
+1373,"Niger12",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-02-02",2,2,2,9,2,79,5,949
+1374,"Niger13",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,2,4,7,3,8,948
+1375,"Niger14",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,60,5,2,7,79,4,950
+1376,"Niger8",NA,"Niger","Africa","Niamey",2005,"oral swab",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,24,5,24
+1377,"CP01",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,5,277
+1378,"CP02",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,20,912
+1379,"CP03",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",14,14,8,4,7,3,8,423
+1380,"CP04",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,2,5,9,2,6,5,951
+1381,"CP05",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,10,1,34,32,15,952
+1382,"CP06",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,7,167,15,953
+1383,"CP08",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,6,2,2,24,5,954
+1384,"CP10",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,9,2,6,5,254
+1385,"CP11",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,2,4,25,4,35,4,955
+1386,"CP12",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",11,8,6,1,34,10,119,956
+1387,"CP15",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,7,15,6,7,32,15,957
+1388,"CP16",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,4,4,4,4,35,4,958
+1389,"CP17",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,20,485
+1390,"CP18",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,2,6,2,4,77,27,959
+1391,"CP21",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,2,6,4,4,26,4,960
+1392,"CP22",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",1,7,6,5,123,29,141,961
+1393,"CP23",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,4,7,37,15,476
+1394,"CP26",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,6,2,2,6,5,519
+1395,"CP27",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,3,3,3,39,95,918
+1396,"CP29",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,14,8,4,7,10,8,124
+1397,"CP30",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,14,6,7,37,15,962
+1398,"CP32",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",71,14,8,4,7,10,8,963
+1399,"CP33",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,66,7,37,15,964
+1400,"CP34",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",80,3,6,4,31,45,13,747
+1401,"CP35",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,9,2,6,5,79
+1402,"CP36",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1403,"CP37",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1404,"CP38",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",71,14,8,4,7,10,8,963
+1405,"CP39",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,6,2,2,6,5,519
+1406,"CP40",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,14,8,4,7,10,8,124
+1407,"CP41",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",93,3,21,1,6,30,4,965
+1408,"CP42",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",31,2,2,2,2,24,5,966
+1409,"CP43",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,3,3,3,39,95,918
+1410,"CP44",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,4,4,67,4,26,4,967
+1411,"CP45",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,5,5,9,2,6,5,968
+1412,"CP46",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,14,8,4,50,10,8,969
+1413,"CP47",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,2,4,1,49,26,31,970
+1414,"CP48",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,1,2,6,5,971
+1415,"CP49",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,14,8,1,7,10,22,972
+1416,"CP51",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,14,8,1,7,3,22,973
+1417,"CP52",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",34,5,6,1,2,24,5,974
+1418,"CP53",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,1,2,6,5,975
+1419,"CP54",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",36,4,6,1,4,26,4,976
+1420,"CP55",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,6,142,977
+1421,"CP56",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1422,"CP57",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,4,538
+1423,"CP58",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+1424,"CP59",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",35,7,4,4,4,4,4,402
+1425,"CP60",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",36,4,4,1,4,26,7,978
+1426,"CP63",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,4,14,4,4,4,4,326
+1427,"CP65",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,12,21,1,6,30,4,538
+1428,"CP68",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",94,3,8,4,7,10,35,979
+1429,"CP69",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,11,15,6,34,37,12,980
+1430,"CP70",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,7,4,4,4,26,4,497
+1431,"CP72",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,11,72,6,7,55,12,981
+1432,"CP76",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,49,982
+1433,"CP78",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",47,7,73,28,2,30,6,983
+1434,"CP79",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",8,7,8,4,7,10,8,144
+1435,"CP80",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",3,3,21,1,6,30,4,984
+1436,"CP81",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,34,32,15,373
+1437,"CP82",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,2,5,2,2,24,5,60
+1438,"CP85",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",11,26,6,4,34,60,119,659
+1439,"CP86",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",62,3,21,1,6,8,4,985
+1440,"CP88",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",4,4,14,4,4,4,4,326
+1441,"CP89",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,20,485
+1442,"CP90",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",33,7,6,2,30,123,15,986
+1443,"CP92",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,7,37,15,344
+1444,"CP93",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,4,39,32,15,157
+1445,"CP94",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1446,"CP95",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,28,2,6,5,987
+1447,"ABCURC3",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",4,7,43,7,122,19,14,988
+1448,"APRURC4",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",87,14,6,36,65,10,12,989
+1449,"APRURC6",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",4,7,43,7,122,19,14,988
+1450,"BCHURC12",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",75,7,16,7,34,51,14,990
+1451,"CCHHCRM14",NA,"France","Europe","Paris area",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",35,4,4,4,4,24,4,206
+1452,"CCHHRM10",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,5,20,6,4,70,22,991
+1453,"CCHURM6",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",13,5,6,6,2,21,22,992
+1454,"CP31",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1455,"CP62",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",57,4,20,2,71,104,12,993
+1456,"CP07",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1457,"CP77",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",35,4,4,4,34,26,4,627
+1458,"CP83",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",2,5,5,2,2,6,5,69
+1459,"CP87",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",33,7,6,2,31,123,15,994
+1460,"DPC121",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,2,2,2,2,79,5,995
+1461,"DPC15",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,8,4,2,10,8,407
+1462,"DPC153",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,4,538
+1463,"DPC164",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,21,1,6,30,4,880
+1464,"DPC29",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,4,538
+1465,"DPC59",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,74,1,6,4,4,996
+1466,"DPC67",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,3,3,1,3,3,22,997
+1467,"DPC69",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,75,1,34,162,125,998
+1468,"DPC82",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",95,61,4,4,4,26,22,999
+1469,"DPC84",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,6,5,69
+1470,"DPC91",NA,"Belgium","Europe",NA,2000,"other","digestive tract",NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",13,10,15,6,7,168,15,1000
+1471,"CP09",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",13,10,15,6,2,37,40,1001
+1472,"EGPHRC1",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",8,14,8,4,7,10,8,124
+1473,"EGPHRM2",NA,"France","Europe","Paris area",2002,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,5,5,2,2,20,5,408
+1474,"EGPHRS1",NA,"France","Europe","Paris area",2001,"blood",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",4,17,21,19,27,84,22,947
+1475,"EGPURC17",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",13,10,15,6,7,37,15,344
+1476,"EGPURM1",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",96,12,21,5,6,30,4,1002
+1477,"EGPURM14",NA,"France","Europe","Paris area",2002,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",2,3,5,2,2,24,20,1003
+1478,"EGPURM24",NA,"France","Europe","Paris area",NA,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2014-12-19",52,14,8,4,7,3,8,1004
+1479,"EGPURM9",NA,"France","Europe","Paris area",2001,"urine",NA,NA,NA,NA,NA,4,2,"2014-12-19","2015-01-08",62,12,21,1,6,30,20,912
+1491,"PCPat96a",NA,"UK","Europe","Leeds",NA,"skin","groin",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",13,39,15,4,7,37,40,628
+1493,"SCS70955",NA,"UK","Europe","Edinburgh",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",80,3,10,59,34,109,20,790
+1494,"SCS102950",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",35,2,14,4,4,4,131,791
+1495,"SCS1948186",NA,"UK","Europe","Dunfermline",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",8,3,6,2,2,78,5,792
+1496,"SCS94308",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",4,7,52,60,110,76,40,794
+1497,"SCS17170287",NA,"UK","Europe","Inverness",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",39,7,6,2,111,4,132,795
+1499,"P2246",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,9,10,26,112,14,11,797
+1512,"P1234",NA,"Angola","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1513,"P2241",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1514,"P2243",NA,"Germany","Europe",NA,NA,"other","penis",NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1515,"P2245",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1516,"P2252",NA,"Angola","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1518,"P2257",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1519,"P2258",NA,"Angola","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1520,"P2271",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1521,"P2272",NA,"Madagascar","Africa",NA,NA,"vaginal swab",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",33,7,32,26,2,61,48,182
+1526,"SCS05.42112",NA,"UK","Europe","Aberdeen",2005,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2015-01-08",47,3,35,28,44,4,6,787
+1527,"SCS242954B",NA,"UK","Europe","Dundee",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",2,5,5,2,2,24,20,376
+1529,"SCS5094257",NA,"UK","Europe","Glasgow",NA,"blood",NA,NA,NA,NA,NA,2,2,"2014-12-19","2014-12-19",36,7,4,4,4,4,4,793
+1738,"M36",NA,"Morocco","Africa","Casablanca",2008,"vaginal swab",NA,NA,NA,NA,NA,26,2,"2014-12-19","2014-12-19",8,14,8,4,89,3,8,1386
+4275,"ATCC10231",NA,"USA","North America",NA,NA,NA,NA,NA,NA,NA,NA,27,2,"2016-12-23","2016-12-23",35,7,4,4,223,4,123,3217
